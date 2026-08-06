@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /api/
+
+Sitemap: https://www.phantom-blade-zero-wiki.wiki/sitemap.xml

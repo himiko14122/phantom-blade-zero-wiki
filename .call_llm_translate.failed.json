@@ -1,0 +1,10 @@
+{
+  "truncated_articles": [
+    {
+      "source": "/Users/jinwei/Desktop/code/phantom-blade-zero/content/en/guides/Breached-State-Recovery.mdx",
+      "output": "/Users/jinwei/Desktop/code/phantom-blade-zero/content/de/guides/Breached-State-Recovery.mdx",
+      "locale": "de",
+      "reason": "word_ratio_below_threshold"
+    }
+  ]
+}

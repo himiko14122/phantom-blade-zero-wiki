@@ -1,0 +1,114 @@
+export const metadata = {
+    id: "parry-system",
+    slug: "parry-system",
+    order: 4,
+    difficulty: "intermediate",
+    title: "Phantom Blade Zero Parry System: Timing, Windows & Tips",
+    description: "Master the Phantom Blade Zero parry system: timed blocks, brutal-move counters, Sha-Chi depletion, and Ghostep combos for every encounter.",
+    keywords: ["Phantom Blade Zero parry system"],
+    image: "/images/combat/rIEDGbYyYEc.webp",
+    video: "rIEDGbYyYEc",
+    category: "combat",
+    date: "2026-08-06",
+    lastModified: "2026-08-06"
+}
+
+The Phantom Blade Zero parry system rewards precise timing over button mashing and turns every incoming swing into a resource-draining counter. Master the frame windows, brutal-move indicators, and Ghostep follow-ups that flip combat in your favor.
+
+## How the Parry System Works
+
+The **Phantom Blade Zero parry system** is built around a single defensive input that competes directly with the dodge and block tools, but rewards a much higher payoff when executed correctly because every successful parry actively pulls resources away from your opponent. When you press the parry button at the right moment, your character performs a **timed block** that negates incoming damage without draining your own **Sha-Chi** meter. Instead, the successful parry actively depletes a chunk of the attacker's Sha-Chi, which is the resource bosses and elite enemies use to power their most dangerous abilities. This inversion, where defense becomes offense, is the core fantasy the system is designed around, and it is the reason the high-skill parry playstyle exists at all.
+
+### Standard Parry vs Perfect Parry
+
+There are two outcomes for any parry attempt, and recognizing the difference is critical because each one opens up different follow-up options during the recovery window. A standard parry still negates damage and gives you a small recovery window, but it does not stagger the enemy significantly and only chips a sliver of Sha-Chi from the attacker. A **Perfect Parry**, by contrast, triggers within a tighter frame window and produces a much harder stagger, a larger Sha-Chi drain, and access to special counter animations that chain directly into your next combo. The two outcomes feel different in-hand, which means the system teaches you to read the audio and visual cues rather than guess.
+
+### What Happens on a Successful Parry
+
+When a parry lands, several things happen in sequence: damage is nullified, the attacker's animation is interrupted, and a short punish window opens where your next attack cannot be blocked. The table below breaks down each outcome by parry tier so you can see exactly what is at stake on every input.
+
+| Parry Type | Damage Negated | Sha-Chi Drained (Attacker) | Stagger Severity | Punish Window |
+|------------|----------------|----------------------------|------------------|---------------|
+| Missed Parry | None | 0% | None | None |
+| Standard Parry | Full | ~5% | Light | ~12 frames |
+| Perfect Parry | Full | ~15% | Heavy | ~24 frames |
+| Brutal Perfect Parry | Full | ~25% | Knockdown | ~36 frames |
+
+This stacking economy is why the **parry system** is considered the highest skill-ceiling defensive tool in the game, because better timing literally translates into bigger combos and faster boss kills on every encounter.
+
+## Parry Timing Windows and Frame Data
+
+Understanding when to press the button is half the battle with the **Phantom Blade Zero parry system**, because the game uses a three-stage timing window that visually and audibly communicates whether your input is early, on-time, or late. According to community frame-data testing shared on the official forums and echoed in the [Phantom Blade Zero on Steam](https://store.steampowered.com/app/4115450/Phantom_Blade_Zero/) combat overview, the active parry window lasts roughly 18 frames at 60fps, split between an early buffer, the perfect frame cluster, and a late recovery allowance. Each stage produces a different result even when the attack is technically blocked, which is why two players can parry the same swing and walk away with completely different punish options.
+
+### Early, Mid, and Late Window Frames
+
+The early buffer covers the first third of the window and produces standard parries even if your timing is slightly off, which gives new players a forgiving floor to stand on while they learn enemy patterns. The middle cluster, which spans about six frames, is where **Perfect Parry** triggers and where the audio cue shifts to a sharper metallic ring that is impossible to miss once you have heard it. The late allowance catches inputs that arrive after the ideal moment but still close enough to register as a block rather than a clean hit, which means even sloppy attempts usually avoid damage.
+
+| Window Stage | Frame Range (60fps) | Result | Audio Cue |
+|--------------|---------------------|--------|-----------|
+| Early Buffer | Frames 1–6 | Standard Parry | Soft clang |
+| Perfect Cluster | Frames 7–12 | Perfect Parry | Sharp metallic ring |
+| Late Allowance | Frames 13–18 | Standard Parry | Muffled clang |
+| Outside Window | Frame 0 / Frame 19+ | Hit / Missed Parry | Hit impact sound |
+
+Players report that the perfect cluster is narrower against faster enemies and slightly more forgiving against heavy hulking bosses, which is why pattern recognition matters as much as raw reaction time. The **parry system** also stretches the late window a few frames longer when your character has the **Deflect** talent equipped, so build choices can effectively widen your margin without changing your raw input rhythm.
+
+## Brutal Moves and Forced Parries
+
+The **Phantom Blade Zero parry system** has a special rule for **Brutal Moves**, which are the gold and orange-telegraphed attacks that bosses and elite enemies use to break through standard defenses. These attacks cannot be blocked with a normal guard, cannot be dodged reliably due to their tracking, and will instantly put you into a **Breached state** if they connect. The only counter is a parry, and only a perfect one at that, which means brutal moves are essentially skill checks disguised as animations.
+
+### Reading Brutal Indicators
+
+Every brutal move is signaled roughly 0.8 to 1.2 seconds before impact with a colored flash on the enemy's weapon, an audio sting, and a slight wind-up animation that is unique to each boss. The color tells you the move category: gold for heavy single-hit brutal strikes, orange for multi-hit brutal combos, and a deeper red-orange for the rarest **Execution Brutals** that deal damage over a wide area and require positional awareness on top of the parry. Reading this indicator is the single most important skill for surviving boss encounters above the second difficulty tier.
+
+| Indicator Color | Move Type | Parry Required | Typical Window |
+|-----------------|-----------|----------------|----------------|
+| Gold | Heavy Brutal Strike | Perfect Parry | Wide (~20 frames) |
+| Orange | Multi-Hit Brutal Combo | Perfect Parry per hit | Narrow (~12 frames each) |
+| Red-Orange | Execution Brutal (AoE) | Perfect Parry + Reposition | Variable |
+
+### Punish Windows After Brutal Parries
+
+A successful perfect parry against a brutal move opens the longest punish window in the game, during which the enemy is fully vulnerable and unable to block any incoming damage. This window is also the trigger for the **Ghostep** mechanic, which lets you teleport behind the staggered enemy and unleash a guaranteed-crit follow-up that skips their remaining health chunk in most cases. Learning to convert every brutal parry into a Ghostep combo is the difference between a clean first-try clear and a thirty-attempt grind, so treat every gold or orange flash as a setup rather than a threat.
+
+For more detail on how Ghostep chains work and which follow-up attacks deal the most damage, see our [Phantom Blade Zero Ghostep explained](/en/guides/ghostep-explained/) breakdown that covers combo routing and stamina costs in depth.
+
+## Sha-Chi Management and Ghostep Triggers
+
+The economy around **Sha-Chi** is what makes the **Phantom Blade Zero parry system** feel less like a defensive crutch and more like a resource war that you are actively winning throughout the fight. Every enemy, especially bosses, has a hidden Sha-Chi meter that powers their special abilities, brutal moves, and final-phase transitions, and your parries are the primary tool for draining that meter before it drains you. When you stack enough parries across a fight, you are essentially accelerating the boss's vulnerability cycle and forcing them into the **Breached state** earlier than they would otherwise reach it.
+
+### How Sha-Chi Depletion Stacks Across a Fight
+
+Each parry contributes a small percentage of Sha-Chi drain, but perfect parries and brutal-move parries contribute disproportionately more, which means timing matters even when the damage itself is already negated. Across a typical boss fight, you can expect the Sha-Chi meter to deplete at roughly the following pace based on community reports and the official combat overview on the [Phantom Blade Zero Official Site](https://pbz.s-game.com/).
+
+| Parry Type | Avg Sha-Chi Drained | Stacks Toward Breached State |
+|------------|---------------------|------------------------------|
+| Standard Parry | ~5% | Yes (slow) |
+| Perfect Parry | ~15% | Yes (fast) |
+| Brutal Perfect Parry | ~25% | Yes (very fast) |
+| Ghostep Combo Finisher | ~10% extra | Yes (burst) |
+
+Reaching zero Sha-Chi on a boss triggers the Breached state, which is a brief window where every attack from you becomes a critical hit and the boss cannot use any special abilities or brutal moves. For the full breakdown of what happens during this window and how to extend it with specific talent choices, our [Phantom Blade Zero Breached state recovery](/en/guides/breached-state-recovery/) guide covers the recovery timing and post-breached combo routes in detail.
+
+## Advanced Parry Strategies for Boss Fights
+
+Once you have the basic timing down, the **Phantom Blade Zero parry system** rewards players who learn to read boss patterns and chain parries into extended combos rather than treating each one as an isolated event. The best players typically study the boss's attack string, identify which hits are parryable versus which are dodge-only, and plan their punish routes around the brutal-move beats because those are the guaranteed damage windows that decide the fight. Treat parrying as a planning tool rather than a reaction tool, and the whole combat layer opens up.
+
+### Boss Pattern Recognition
+
+Most bosses follow predictable attack strings that include one or two brutal moves mixed in with faster recovery attacks, which means the rhythm of the fight is learnable on the first or second attempt if you are paying attention. The general strategy is to parry the standard swings to build your own safety margin, hold your **Ghostep** cooldown for the brutal beats, and then unleash your hardest combo the moment the brutal parry lands. This rhythm keeps the enemy staggered longer than a single parry would and prevents them from recovering their guard before your follow-ups connect.
+
+| Boss Phase | Recommended Parry Focus | Combo Follow-Up |
+|------------|--------------------------|-----------------|
+| Phase 1 (Opening) | Standard swings only | Light attack chain |
+| Phase 2 (Mid-fight) | Mix standard + first brutal | Medium combo + Ghostep |
+| Phase 3 (Desperation) | All brutal moves mandatory | Full Ghostep combo route |
+| Breached State | Free damage window | Heavy finisher string |
+
+### Chaining Parries into Combos
+
+The most efficient parry routes typically involve three-hit chains: parry, light attack, parry, light attack, brutal parry, full Ghostep combo, because this rhythm maximizes stagger uptime and prevents the boss from interrupting your pressure. If you are still learning the input timing, the step-by-step [Phantom Blade Zero how to parry](/en/guides/how-to-parry/) tutorial breaks down each input on a frame-by-frame basis and includes practice drills against training dummies that simulate boss attack speeds.
+
+## Common Parry Mistakes to Avoid
+
+Even experienced players fall into traps with the **Phantom Blade Zero parry system**, especially during the first dozen hours when the timing window still feels unfamiliar and the audio cues have not yet become second nature. The most

@@ -1,0 +1,114 @@
+export const metadata = {
+    id: "parry-system",
+    slug: "parry-system",
+    order: 4,
+    difficulty: "intermediate",
+    title: "Système de parade de Phantom Blade Zero : Timing, fenêtres et astuces",
+    description: "Maîtrisez le système de parade de Phantom Blade Zero : blocages minutés, contre-attaques contre les coups brutaux, déplétion de Sha-Chi et combos Ghostep pour chaque rencontre.",
+    keywords: ["système de parade de Phantom Blade Zero"],
+    image: "/images/combat/rIEDGbYyYEc.webp",
+    video: "rIEDGbYyYEc",
+    category: "combat",
+    date: "2026-08-06",
+    lastModified: "2026-08-06"
+}
+
+Le système de parade de Phantom Blade Zero récompense un timing précis plutôt que le martèlement de boutons et transforme chaque coup entrant en une contre-attaque qui draine les ressources. Maîtrisez les fenêtres de frames, les indicateurs de coups brutaux et les enchaînements Ghostep qui retournent le combat en votre faveur.
+
+## Comment fonctionne le système de parade
+
+Le **système de parade de Phantom Blade Zero** repose sur une seule entrée défensive qui entre en concurrence directe avec les outils d'esquive et de blocage, mais qui offre une bien plus grande récompense lorsqu'elle est exécutée correctement, car chaque parade réussie retire activement des ressources à votre adversaire. Lorsque vous appuyez sur le bouton de parade au bon moment, votre personnage effectue un **blocage minuté** qui annule les dégâts entrants sans puiser dans votre propre jauge de **Sha-Chi**. À la place, la parade réussie épuise activement une partie du Sha-Chi de l'attaquant, la ressource que les boss et les ennemis d'élite utilisent pour alimenter leurs capacités les plus dangereuses. Cette inversion, où la défense devient une attaque, est le fantasme central autour duquel le système est conçu, et c'est la raison pour laquelle ce style de jeu de parade à haute compétence existe tout simplement.
+
+### Parade standard vs Parade parfaite
+
+Il existe deux résultats possibles pour toute tentative de parade, et savoir reconnaître la différence est essentiel, car chacun ouvre des options d'enchaînement différentes pendant la fenêtre de récupération. Une parade standard annule toujours les dégâts et vous offre une petite fenêtre de récupération, mais elle ne fait pas vaciller l'ennemi de manière significative et ne retire qu'une infime portion de Sha-Chi à l'attaquant. Une **Parade parfaite**, en revanche, se déclenche dans une fenêtre de frames plus serrée et produit un étourdissement bien plus fort, un drain de Sha-Chi plus important, et donne accès à des animations de contre spéciales qui s'enchaînent directement avec votre prochain combo. Les deux résultats se ressentent différemment en main, ce qui signifie que le système vous apprend à lire les signaux audio et visuels plutôt qu'à deviner.
+
+### Ce qui se passe lors d'une parade réussie
+
+Lorsqu'une parade atterrit, plusieurs choses se produisent en séquence : les dégâts sont annulés, l'animation de l'attaquant est interrompue, et une courte fenêtre de punition s'ouvre pendant laquelle votre prochaine attaque ne peut pas être bloquée. Le tableau ci-dessous détaille chaque résultat par niveau de parade afin que vous puissiez voir exactement ce qui est en jeu à chaque action.
+
+| Type de parade | Dégâts annulés | Sha-Chi drainé (attaquant) | Sévérité de l'étourdissement | Fenêtre de punition |
+|------------|----------------|----------------------------|------------------|---------------|
+| Parade manquée | Aucun | 0% | Aucune | Aucune |
+| Parade standard | Total | ~5% | Légère | ~12 frames |
+| Parade parfaite | Total | ~15% | Lourde | ~24 frames |
+| Parade parfaite brutale | Total | ~25% | Mise au sol | ~36 frames |
+
+Cette économie cumulative est la raison pour laquelle le **système de parade** est considéré comme l'outil défensif avec le plafond de compétence le plus élevé du jeu, car un meilleur timing se traduit littéralement par des combos plus importants et des boss vaincus plus rapidement à chaque rencontre.
+
+## Fenêtres de timing de parade et données de frames
+
+Comprendre quand appuyer sur le bouton est la moitié de la bataille avec le **système de parade de Phantom Blade Zero**, car le jeu utilise une fenêtre de timing en trois étapes qui indique visuellement et auditivement si votre action est en avance, à temps, ou en retard. Selon les tests de données de frames effectués par la communauté, partagés sur les forums officiels et repris dans l'aperçu du combat de [Phantom Blade Zero sur Steam](https://store.steampowered.com/app/4115450/Phantom_Blade_Zero/), la fenêtre de parade active dure environ 18 frames à 60 fps, réparties entre un tampon précoce, le groupe de frames parfaites et une marge de récupération tardive. Chaque étape produit un résultat différent même lorsque l'attaque est techniquement bloquée, c'est pourquoi deux joueurs peuvent parer le même coup et repartir avec des options de punition complètement différentes.
+
+### Frames des fenêtres précoce, intermédiaire et tardive
+
+Le tampon précoce couvre le premier tiers de la fenêtre et produit des parades standard même si votre timing est légèrement décalé, ce qui offre aux nouveaux joueurs une marge indulgente sur laquelle s'appuyer pendant qu'ils apprennent les schémas des ennemis. Le groupe intermédiaire, qui s'étend sur environ six frames, est l'endroit où se déclenche la **Parade parfaite** et où le signal audio passe à un anneau métallique plus aigu qu'il est impossible de manquer une fois qu'on l'a entendu. La marge tardive attrape les actions qui arrivent après le moment idéal, mais encore assez proches pour être enregistrées comme un blocage plutôt qu'un coup net, ce qui signifie que même les tentatives imprécises évitent généralement les dégâts.
+
+| Étape de la fenêtre | Plage de frames (60 fps) | Résultat | Signal audio |
+|--------------|---------------------|--------|-----------|
+| Tampon précoce | Frames 1 à 6 | Parade standard | Claquement doux |
+| Groupe de frames parfaites | Frames 7 à 12 | Parade parfaite | Anneau métallique aigu |
+| Marge tardive | Frames 13 à 18 | Parade standard | Claquement sourd |
+| Hors fenêtre | Frame 0 / Frame 19+ | Coup / Parade manquée | Bruit d'impact du coup |
+
+Les joueurs rapportent que le groupe de frames parfaites est plus étroit contre les ennemis rapides et légèrement plus indulgent contre les boss massifs et lourds, ce qui explique pourquoi la reconnaissance des schémas compte autant que le temps de réaction brut. Le **système de parade** étend également la fenêtre tardive de quelques frames supplémentaires lorsque votre personnage dispose du talent **Déviation**, afin que les choix de build puissent effectivement élargir votre marge sans changer votre rythme d'action brut.
+
+## Coups brutaux et parades forcées
+
+Le **système de parade de Phantom Blade Zero** comporte une règle spéciale pour les **Coups Brutaux**, qui sont les attaques signalées en or et en orange que les boss et les ennemis d'élite utilisent pour briser les défenses standard. Ces attaques ne peuvent pas être bloquées avec une garde normale, ne peuvent pas être esquivées de manière fiable en raison de leur suivi, et vous placent instantanément dans un **état de Brèche** si elles vous touchent. La seule contre-mesure est une parade, et seulement une parade parfaite, ce qui signifie que les coups brutaux sont essentiellement des tests de compétence déguisés en animations.
+
+### Lire les indicateurs de coups brutaux
+
+Chaque coup brutal est signalé environ 0,8 à 1,2 seconde avant l'impact par un flash coloré sur l'arme de l'ennemi, un piqué audio et une légère animation d'armement unique à chaque boss. La couleur indique la catégorie du coup : or pour les frappes brutales lourdes à un seul coup, orange pour les combos brutaux à plusieurs coups, et un rouge-orange plus profond pour les plus rares **Coups Brutaux d'exécution** qui infligent des dégâts sur une large zone et exigent une conscience de positionnement en plus de la parade. Lire cet indicateur est la compétence la plus importante pour survivre aux affrontements de boss au-delà du deuxième niveau de difficulté.
+
+| Couleur de l'indicateur | Type de coup | Parade requise | Fenêtre typique |
+|-----------------|-----------|----------------|----------------|
+| Or | Frappe brutale lourde | Parade parfaite | Large (~20 frames) |
+| Orange | Combo brutal à plusieurs coups | Parade parfaite par coup | Étroite (~12 frames chacun) |
+| Rouge-orange | Coup brutal d'exécution (AoE) | Parade parfaite + repositionnement | Variable |
+
+### Fenêtres de punition après les parades brutales
+
+Une parade parfaite réussie contre un coup brutal ouvre la plus longue fenêtre de punition du jeu, pendant laquelle l'ennemi est totalement vulnérable et incapable de bloquer les dégâts entrants. Cette fenêtre est également le déclencheur de la mécanique **Ghostep**, qui vous permet de vous téléporter derrière l'ennemi étourdi et de déchaîner un enchaînement à coup critique garanti qui saute, dans la plupart des cas, le reste de sa barre de vie. Apprendre à convertir chaque parade brutale en combo Ghostep est la différence entre une victoire nette du premier coup et un calvaire de trente tentatives ; traitez donc chaque flash doré ou orange comme une opportunité plutôt qu'une menace.
+
+Pour plus de détails sur le fonctionnement des enchaînements Ghostep et sur les attaques de suivi qui infligent le plus de dégâts, consultez notre analyse [Phantom Blade Zero : Ghostep expliqué](/fr/guides/ghostep-explained/) qui couvre en profondeur le routage des combos et les coûts d'endurance.
+
+## Gestion du Sha-Chi et déclencheurs Ghostep
+
+L'économie autour du **Sha-Chi** est ce qui fait que le **système de parade de Phantom Blade Zero** ressemble moins à une béquille défensive qu'à une guerre de ressources que vous êtes activement en train de gagner tout au long du combat. Chaque ennemi, en particulier les boss, possède une jauge de Sha-Chi cachée qui alimente leurs capacités spéciales, leurs coups brutaux et leurs transitions de phase finale, et vos parades sont l'outil principal pour drainer cette jauge avant qu'elle ne vous draine. Lorsque vous accumulez suffisamment de parades au cours d'un combat, vous accélérez essentiellement le cycle de vulnérabilité du boss et le forcez à entrer dans l'**état de Brèche** plus tôt qu'il ne le ferait autrement.
+
+### Comment la déplétion de Sha-Chi s'accumule au cours d'un combat
+
+Chaque parade contribue à un petit pourcentage de drain de Sha-Chi, mais les parades parfaites et les parades de coups brutaux contribuent de manière disproportionnée, ce qui signifie que le timing compte même lorsque les dégâts sont déjà annulés. Au cours d'un affrontement de boss typique, vous pouvez vous attendre à ce que la jauge de Sha-Chi s'épuise à peu près au rythme suivant, selon les rapports de la communauté et l'aperçu officiel du combat sur le [Site officiel de Phantom Blade Zero](https://pbz.s-game.com/).
+
+| Type de parade | Sha-Chi drainé moyen | Contribution vers l'état de Brèche |
+|------------|---------------------|------------------------------|
+| Parade standard | ~5% | Oui (lente) |
+| Parade parfaite | ~15% | Oui (rapide) |
+| Parade parfaite brutale | ~25% | Oui (très rapide) |
+| Finisseur de combo Ghostep | ~10% supplémentaire | Oui (rafale) |
+
+Atteindre zéro Sha-Chi sur un boss déclenche l'état de Brèche, une brève fenêtre pendant laquelle chacune de vos attaques devient un coup critique et où le boss ne peut utiliser aucune capacité spéciale ni aucun coup brutal. Pour une analyse complète de ce qui se passe pendant cette fenêtre et de la manière de la prolonger avec des choix de talents spécifiques, notre guide [Phantom Blade Zero : récupération de l'état de Brèche](/fr/guides/breached-state-recovery/) couvre en détail le timing de récupération et les routes de combos après l'état de Brèche.
+
+## Stratégies de parade avancées pour les combats de boss
+
+Une fois que vous maîtrisez le timing de base, le **système de parade de Phantom Blade Zero** récompense les joueurs qui apprennent à lire les schémas des boss et à enchaîner les parades en combos étendus plutôt que de traiter chacune d'elles comme un événement isolé. Les meilleurs joueurs étudient généralement la chaîne d'attaques du boss, identifient quels coups sont parables par rapport à ceux qui ne sont esquivables que par une esquive, et planifient leurs routes de punition autour des temps forts des coups brutaux, car ce sont les fenêtres de dégâts garanties qui décident du combat. Traitez la parade comme un outil de planification plutôt que comme un outil de réaction, et toute la couche de combat s'ouvre.
+
+### Reconnaissance des schémas des boss
+
+La plupart des boss suivent des chaînes d'attaques prévisibles qui incluent un ou deux coups brutaux mélangés à des attaques de récupération plus rapides, ce qui signifie que le rythme du combat est apprenable dès la première ou la deuxième tentative si vous êtes attentif. La stratégie générale consiste à parer les coups standard pour bâtir votre propre marge de sécurité, à conserver le temps de recharge de votre **Ghostep** pour les temps forts brutaux, puis à déchaîner votre combo le plus puissant au moment où la parade brutale atterrit. Ce rythme maintient l'ennemi étourdi plus longtemps qu'une simple parade ne le ferait et l'empêche de retrouver sa garde avant que vos enchaînements ne touchent.
+
+| Phase du boss | Focus de parade recommandé | Enchaînement de combo |
+|------------|--------------------------|-----------------|
+| Phase 1 (Ouverture) | Coups standard uniquement | Chaîne d'attaques légères |
+| Phase 2 (Milieu de combat) | Mélange standard + premier brutal | Combo moyen + Ghostep |
+| Phase 3 (Désespoir) | Tous les coups brutaux obligatoires | Route de combo Ghostep complète |
+| État de Brèche | Fenêtre de dégâts gratuite | Chaîne de finisseurs lourds |
+
+### Enchaîner les parades en combos
+
+Les routes de parade les plus efficaces impliquent généralement des chaînes de trois coups : parade, attaque légère, parade, attaque légère, parade brutale, combo Ghostep complet, car ce rythme maximise la durée d'étourdissement et empêche le boss d'interrompre votre pression. Si vous apprenez encore le timing des actions, le tutoriel pas à pas [Phantom Blade Zero : comment parer](/fr/guides/how-to-parry/) décompose chaque action frame par frame et inclut des exercices d'entraînement contre des mannequins qui simulent les vitesses d'attaque des boss.
+
+## Erreurs de parade courantes à éviter
+
+Même les joueurs expérimentés tombent dans des pièges avec le **système de parade de Phantom Blade Zero**, en particulier au cours des douze premières heures, lorsque la fenêtre de timing semble encore inconnue et que les signaux audio ne sont pas encore devenus un réflexe naturel. Le plus

@@ -1,0 +1,651 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://www.phantom-blade-zero-wiki.wiki/en/</loc>
+    <lastmod>2026-08-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.phantom-blade-zero-wiki.wiki/en/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.phantom-blade-zero-wiki.wiki/en/" />
+  </url>
+  <url>
+    <loc>https://www.phantom-blade-zero-wiki.wiki/en/guides/</loc>
+    <lastmod>2026-08-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.phantom-blade-zero-wiki.wiki/en/guides/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.phantom-blade-zero-wiki.wiki/en/guides/" />
+  </url>
+  <url>
+    <loc>https://www.phantom-blade-zero-wiki.wiki/en/weapons/</loc>
+    <lastmod>2026-08-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.phantom-blade-zero-wiki.wiki/en/weapons/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.phantom-blade-zero-wiki.wiki/en/weapons/" />
+  </url>
+  <url>
+    <loc>https://www.phantom-blade-zero-wiki.wiki/en/phantom-edges/</loc>
+    <lastmod>2026-08-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.phantom-blade-zero-wiki.wiki/en/phantom-edges/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.phantom-blade-zero-wiki.wiki/en/phantom-edges/" />
+  </url>
+  <url>
+    <loc>https://www.phantom-blade-zero-wiki.wiki/en/boss-guide/</loc>
+    <lastmod>2026-08-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.phantom-blade-zero-wiki.wiki/en/boss-guide/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.phantom-blade-zero-wiki.wiki/en/boss-guide/" />
+  </url>
+  <url>
+    <loc>https://www.phantom-blade-zero-wiki.wiki/en/endings/</loc>
+    <lastmod>2026-08-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.phantom-blade-zero-wiki.wiki/en/endings/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.phantom-blade-zero-wiki.wiki/en/endings/" />
+  </url>
+  <url>
+    <loc>https://www.phantom-blade-zero-wiki.wiki/en/combat/</loc>
+    <lastmod>2026-08-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.phantom-blade-zero-wiki.wiki/en/combat/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.phantom-blade-zero-wiki.wiki/en/combat/" />
+  </url>
+  <url>
+    <loc>https://www.phantom-blade-zero-wiki.wiki/en/tier-list/</loc>
+    <lastmod>2026-08-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.phantom-blade-zero-wiki.wiki/en/tier-list/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.phantom-blade-zero-wiki.wiki/en/tier-list/" />
+  </url>
+  <url>
+    <loc>https://www.phantom-blade-zero-wiki.wiki/en/lore/</loc>
+    <lastmod>2026-08-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.phantom-blade-zero-wiki.wiki/en/lore/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.phantom-blade-zero-wiki.wiki/en/lore/" />
+  </url>
+  <url>
+    <loc>https://www.phantom-blade-zero-wiki.wiki/en/difficulty/</loc>
+    <lastmod>2026-08-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.phantom-blade-zero-wiki.wiki/en/difficulty/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.phantom-blade-zero-wiki.wiki/en/difficulty/" />
+  </url>
+  <url>
+    <loc>https://www.phantom-blade-zero-wiki.wiki/en/updates/</loc>
+    <lastmod>2026-08-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.phantom-blade-zero-wiki.wiki/en/updates/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.phantom-blade-zero-wiki.wiki/en/updates/" />
+  </url>
+  <url>
+    <loc>https://www.phantom-blade-zero-wiki.wiki/en/about/</loc>
+    <lastmod>2026-08-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.phantom-blade-zero-wiki.wiki/en/about/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.phantom-blade-zero-wiki.wiki/en/about/" />
+  </url>
+  <url>
+    <loc>https://www.phantom-blade-zero-wiki.wiki/en/sitemap/</loc>
+    <lastmod>2026-08-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.phantom-blade-zero-wiki.wiki/en/sitemap/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.phantom-blade-zero-wiki.wiki/en/sitemap/" />
+  </url>
+  <url>
+    <loc>https://www.phantom-blade-zero-wiki.wiki/en/privacy-policy/</loc>
+    <lastmod>2026-08-06</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.4</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.phantom-blade-zero-wiki.wiki/en/privacy-policy/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.phantom-blade-zero-wiki.wiki/en/privacy-policy/" />
+  </url>
+  <url>
+    <loc>https://www.phantom-blade-zero-wiki.wiki/en/terms-of-service/</loc>
+    <lastmod>2026-08-06</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.4</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.phantom-blade-zero-wiki.wiki/en/terms-of-service/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.phantom-blade-zero-wiki.wiki/en/terms-of-service/" />
+  </url>
+  <url>
+    <loc>https://www.phantom-blade-zero-wiki.wiki/en/lore/66-days-lore/</loc>
+    <lastmod>2026-08-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.phantom-blade-zero-wiki.wiki/en/lore/66-days-lore/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.phantom-blade-zero-wiki.wiki/en/lore/66-days-lore/" />
+  </url>
+  <url>
+    <loc>https://www.phantom-blade-zero-wiki.wiki/en/tier-list/a-tier-weapons/</loc>
+    <lastmod>2026-08-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.phantom-blade-zero-wiki.wiki/en/tier-list/a-tier-weapons/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.phantom-blade-zero-wiki.wiki/en/tier-list/a-tier-weapons/" />
+  </url>
+  <url>
+    <loc>https://www.phantom-blade-zero-wiki.wiki/en/boss-guide/all-bosses-list/</loc>
+    <lastmod>2026-08-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.phantom-blade-zero-wiki.wiki/en/boss-guide/all-bosses-list/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.phantom-blade-zero-wiki.wiki/en/boss-guide/all-bosses-list/" />
+  </url>
+  <url>
+    <loc>https://www.phantom-blade-zero-wiki.wiki/en/endings/all-endings/</loc>
+    <lastmod>2026-08-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.phantom-blade-zero-wiki.wiki/en/endings/all-endings/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.phantom-blade-zero-wiki.wiki/en/endings/all-endings/" />
+  </url>
+  <url>
+    <loc>https://www.phantom-blade-zero-wiki.wiki/en/phantom-edges/all-phantom-edges/</loc>
+    <lastmod>2026-08-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.phantom-blade-zero-wiki.wiki/en/phantom-edges/all-phantom-edges/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.phantom-blade-zero-wiki.wiki/en/phantom-edges/all-phantom-edges/" />
+  </url>
+  <url>
+    <loc>https://www.phantom-blade-zero-wiki.wiki/en/weapons/all-weapons-list/</loc>
+    <lastmod>2026-08-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.phantom-blade-zero-wiki.wiki/en/weapons/all-weapons-list/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.phantom-blade-zero-wiki.wiki/en/weapons/all-weapons-list/" />
+  </url>
+  <url>
+    <loc>https://www.phantom-blade-zero-wiki.wiki/en/tier-list/b-tier-weapons/</loc>
+    <lastmod>2026-08-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.phantom-blade-zero-wiki.wiki/en/tier-list/b-tier-weapons/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.phantom-blade-zero-wiki.wiki/en/tier-list/b-tier-weapons/" />
+  </url>
+  <url>
+    <loc>https://www.phantom-blade-zero-wiki.wiki/en/phantom-edges/bashpole-warhammer/</loc>
+    <lastmod>2026-08-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.phantom-blade-zero-wiki.wiki/en/phantom-edges/bashpole-warhammer/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.phantom-blade-zero-wiki.wiki/en/phantom-edges/bashpole-warhammer/" />
+  </url>
+  <url>
+    <loc>https://www.phantom-blade-zero-wiki.wiki/en/guides/beginner-guide/</loc>
+    <lastmod>2026-08-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.phantom-blade-zero-wiki.wiki/en/guides/beginner-guide/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.phantom-blade-zero-wiki.wiki/en/guides/beginner-guide/" />
+  </url>
+  <url>
+    <loc>https://www.phantom-blade-zero-wiki.wiki/en/tier-list/best-build-tier-list/</loc>
+    <lastmod>2026-08-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.phantom-blade-zero-wiki.wiki/en/tier-list/best-build-tier-list/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.phantom-blade-zero-wiki.wiki/en/tier-list/best-build-tier-list/" />
+  </url>
+  <url>
+    <loc>https://www.phantom-blade-zero-wiki.wiki/en/endings/best-ending/</loc>
+    <lastmod>2026-08-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.phantom-blade-zero-wiki.wiki/en/endings/best-ending/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.phantom-blade-zero-wiki.wiki/en/endings/best-ending/" />
+  </url>
+  <url>
+    <loc>https://www.phantom-blade-zero-wiki.wiki/en/phantom-edges/best-phantom-edges/</loc>
+    <lastmod>2026-08-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.phantom-blade-zero-wiki.wiki/en/phantom-edges/best-phantom-edges/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.phantom-blade-zero-wiki.wiki/en/phantom-edges/best-phantom-edges/" />
+  </url>
+  <url>
+    <loc>https://www.phantom-blade-zero-wiki.wiki/en/weapons/best-weapons/</loc>
+    <lastmod>2026-08-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.phantom-blade-zero-wiki.wiki/en/weapons/best-weapons/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.phantom-blade-zero-wiki.wiki/en/weapons/best-weapons/" />
+  </url>
+  <url>
+    <loc>https://www.phantom-blade-zero-wiki.wiki/en/boss-guide/boss-guide/</loc>
+    <lastmod>2026-08-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.phantom-blade-zero-wiki.wiki/en/boss-guide/boss-guide/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.phantom-blade-zero-wiki.wiki/en/boss-guide/boss-guide/" />
+  </url>
+  <url>
+    <loc>https://www.phantom-blade-zero-wiki.wiki/en/phantom-edges/bow-and-arrow/</loc>
+    <lastmod>2026-08-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.phantom-blade-zero-wiki.wiki/en/phantom-edges/bow-and-arrow/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.phantom-blade-zero-wiki.wiki/en/phantom-edges/bow-and-arrow/" />
+  </url>
+  <url>
+    <loc>https://www.phantom-blade-zero-wiki.wiki/en/combat/breached-state/</loc>
+    <lastmod>2026-08-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.phantom-blade-zero-wiki.wiki/en/combat/breached-state/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.phantom-blade-zero-wiki.wiki/en/combat/breached-state/" />
+  </url>
+  <url>
+    <loc>https://www.phantom-blade-zero-wiki.wiki/en/guides/breached-state-recovery/</loc>
+    <lastmod>2026-08-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.phantom-blade-zero-wiki.wiki/en/guides/breached-state-recovery/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.phantom-blade-zero-wiki.wiki/en/guides/breached-state-recovery/" />
+  </url>
+  <url>
+    <loc>https://www.phantom-blade-zero-wiki.wiki/en/combat/brutal-moves/</loc>
+    <lastmod>2026-08-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.phantom-blade-zero-wiki.wiki/en/combat/brutal-moves/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.phantom-blade-zero-wiki.wiki/en/combat/brutal-moves/" />
+  </url>
+  <url>
+    <loc>https://www.phantom-blade-zero-wiki.wiki/en/guides/checkpoint-bells/</loc>
+    <lastmod>2026-08-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.phantom-blade-zero-wiki.wiki/en/guides/checkpoint-bells/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.phantom-blade-zero-wiki.wiki/en/guides/checkpoint-bells/" />
+  </url>
+  <url>
+    <loc>https://www.phantom-blade-zero-wiki.wiki/en/boss-guide/chief-disciple-of-seven-stars/</loc>
+    <lastmod>2026-08-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.phantom-blade-zero-wiki.wiki/en/boss-guide/chief-disciple-of-seven-stars/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.phantom-blade-zero-wiki.wiki/en/boss-guide/chief-disciple-of-seven-stars/" />
+  </url>
+  <url>
+    <loc>https://www.phantom-blade-zero-wiki.wiki/en/guides/combat-guide/</loc>
+    <lastmod>2026-08-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.phantom-blade-zero-wiki.wiki/en/guides/combat-guide/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.phantom-blade-zero-wiki.wiki/en/guides/combat-guide/" />
+  </url>
+  <url>
+    <loc>https://www.phantom-blade-zero-wiki.wiki/en/combat/combat-mechanics/</loc>
+    <lastmod>2026-08-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.phantom-blade-zero-wiki.wiki/en/combat/combat-mechanics/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.phantom-blade-zero-wiki.wiki/en/combat/combat-mechanics/" />
+  </url>
+  <url>
+    <loc>https://www.phantom-blade-zero-wiki.wiki/en/boss-guide/coppermaul-boss-fight/</loc>
+    <lastmod>2026-08-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.phantom-blade-zero-wiki.wiki/en/boss-guide/coppermaul-boss-fight/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.phantom-blade-zero-wiki.wiki/en/boss-guide/coppermaul-boss-fight/" />
+  </url>
+  <url>
+    <loc>https://www.phantom-blade-zero-wiki.wiki/en/guides/death-system-66-days/</loc>
+    <lastmod>2026-08-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.phantom-blade-zero-wiki.wiki/en/guides/death-system-66-days/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.phantom-blade-zero-wiki.wiki/en/guides/death-system-66-days/" />
+  </url>
+  <url>
+    <loc>https://www.phantom-blade-zero-wiki.wiki/en/updates/delay-announcement/</loc>
+    <lastmod>2026-08-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.phantom-blade-zero-wiki.wiki/en/updates/delay-announcement/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.phantom-blade-zero-wiki.wiki/en/updates/delay-announcement/" />
+  </url>
+  <url>
+    <loc>https://www.phantom-blade-zero-wiki.wiki/en/difficulty/difficulty-modes-explained/</loc>
+    <lastmod>2026-08-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.phantom-blade-zero-wiki.wiki/en/difficulty/difficulty-modes-explained/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.phantom-blade-zero-wiki.wiki/en/difficulty/difficulty-modes-explained/" />
+  </url>
+  <url>
+    <loc>https://www.phantom-blade-zero-wiki.wiki/en/combat/dodge-mechanics/</loc>
+    <lastmod>2026-08-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.phantom-blade-zero-wiki.wiki/en/combat/dodge-mechanics/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.phantom-blade-zero-wiki.wiki/en/combat/dodge-mechanics/" />
+  </url>
+  <url>
+    <loc>https://www.phantom-blade-zero-wiki.wiki/en/endings/ending-conditions/</loc>
+    <lastmod>2026-08-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.phantom-blade-zero-wiki.wiki/en/endings/ending-conditions/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.phantom-blade-zero-wiki.wiki/en/endings/ending-conditions/" />
+  </url>
+  <url>
+    <loc>https://www.phantom-blade-zero-wiki.wiki/en/phantom-edges/flaming-mane-lion-mask/</loc>
+    <lastmod>2026-08-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.phantom-blade-zero-wiki.wiki/en/phantom-edges/flaming-mane-lion-mask/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.phantom-blade-zero-wiki.wiki/en/phantom-edges/flaming-mane-lion-mask/" />
+  </url>
+  <url>
+    <loc>https://www.phantom-blade-zero-wiki.wiki/en/phantom-edges/flaming-mane-mask/</loc>
+    <lastmod>2026-08-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.phantom-blade-zero-wiki.wiki/en/phantom-edges/flaming-mane-mask/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.phantom-blade-zero-wiki.wiki/en/phantom-edges/flaming-mane-mask/" />
+  </url>
+  <url>
+    <loc>https://www.phantom-blade-zero-wiki.wiki/en/combat/ghostep-counter-attack/</loc>
+    <lastmod>2026-08-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.phantom-blade-zero-wiki.wiki/en/combat/ghostep-counter-attack/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.phantom-blade-zero-wiki.wiki/en/combat/ghostep-counter-attack/" />
+  </url>
+  <url>
+    <loc>https://www.phantom-blade-zero-wiki.wiki/en/guides/ghostep-explained/</loc>
+    <lastmod>2026-08-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.phantom-blade-zero-wiki.wiki/en/guides/ghostep-explained/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.phantom-blade-zero-wiki.wiki/en/guides/ghostep-explained/" />
+  </url>
+  <url>
+    <loc>https://www.phantom-blade-zero-wiki.wiki/en/difficulty/hard-mode-guide/</loc>
+    <lastmod>2026-08-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.phantom-blade-zero-wiki.wiki/en/difficulty/hard-mode-guide/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.phantom-blade-zero-wiki.wiki/en/difficulty/hard-mode-guide/" />
+  </url>
+  <url>
+    <loc>https://www.phantom-blade-zero-wiki.wiki/en/difficulty/hellwalker-difficulty/</loc>
+    <lastmod>2026-08-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.phantom-blade-zero-wiki.wiki/en/difficulty/hellwalker-difficulty/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.phantom-blade-zero-wiki.wiki/en/difficulty/hellwalker-difficulty/" />
+  </url>
+  <url>
+    <loc>https://www.phantom-blade-zero-wiki.wiki/en/guides/how-to-dodge/</loc>
+    <lastmod>2026-08-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.phantom-blade-zero-wiki.wiki/en/guides/how-to-dodge/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.phantom-blade-zero-wiki.wiki/en/guides/how-to-dodge/" />
+  </url>
+  <url>
+    <loc>https://www.phantom-blade-zero-wiki.wiki/en/endings/how-to-get-all-endings/</loc>
+    <lastmod>2026-08-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.phantom-blade-zero-wiki.wiki/en/endings/how-to-get-all-endings/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.phantom-blade-zero-wiki.wiki/en/endings/how-to-get-all-endings/" />
+  </url>
+  <url>
+    <loc>https://www.phantom-blade-zero-wiki.wiki/en/guides/how-to-parry/</loc>
+    <lastmod>2026-08-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.phantom-blade-zero-wiki.wiki/en/guides/how-to-parry/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.phantom-blade-zero-wiki.wiki/en/guides/how-to-parry/" />
+  </url>
+  <url>
+    <loc>https://www.phantom-blade-zero-wiki.wiki/en/weapons/jagged-edge-greatsword/</loc>
+    <lastmod>2026-08-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.phantom-blade-zero-wiki.wiki/en/weapons/jagged-edge-greatsword/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.phantom-blade-zero-wiki.wiki/en/weapons/jagged-edge-greatsword/" />
+  </url>
+  <url>
+    <loc>https://www.phantom-blade-zero-wiki.wiki/en/lore/kungfupunk-world/</loc>
+    <lastmod>2026-08-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.phantom-blade-zero-wiki.wiki/en/lore/kungfupunk-world/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.phantom-blade-zero-wiki.wiki/en/lore/kungfupunk-world/" />
+  </url>
+  <url>
+    <loc>https://www.phantom-blade-zero-wiki.wiki/en/lore/lore-guide/</loc>
+    <lastmod>2026-08-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.phantom-blade-zero-wiki.wiki/en/lore/lore-guide/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.phantom-blade-zero-wiki.wiki/en/lore/lore-guide/" />
+  </url>
+  <url>
+    <loc>https://www.phantom-blade-zero-wiki.wiki/en/weapons/man-cutter-halberd/</loc>
+    <lastmod>2026-08-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.phantom-blade-zero-wiki.wiki/en/weapons/man-cutter-halberd/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.phantom-blade-zero-wiki.wiki/en/weapons/man-cutter-halberd/" />
+  </url>
+  <url>
+    <loc>https://www.phantom-blade-zero-wiki.wiki/en/difficulty/new-game-plus-guide/</loc>
+    <lastmod>2026-08-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.phantom-blade-zero-wiki.wiki/en/difficulty/new-game-plus-guide/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.phantom-blade-zero-wiki.wiki/en/difficulty/new-game-plus-guide/" />
+  </url>
+  <url>
+    <loc>https://www.phantom-blade-zero-wiki.wiki/en/updates/new-trailer-2026/</loc>
+    <lastmod>2026-08-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.phantom-blade-zero-wiki.wiki/en/updates/new-trailer-2026/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.phantom-blade-zero-wiki.wiki/en/updates/new-trailer-2026/" />
+  </url>
+  <url>
+    <loc>https://www.phantom-blade-zero-wiki.wiki/en/difficulty/normal-mode-tips/</loc>
+    <lastmod>2026-08-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.phantom-blade-zero-wiki.wiki/en/difficulty/normal-mode-tips/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.phantom-blade-zero-wiki.wiki/en/difficulty/normal-mode-tips/" />
+  </url>
+  <url>
+    <loc>https://www.phantom-blade-zero-wiki.wiki/en/combat/parry-system/</loc>
+    <lastmod>2026-08-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.phantom-blade-zero-wiki.wiki/en/combat/parry-system/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.phantom-blade-zero-wiki.wiki/en/combat/parry-system/" />
+  </url>
+  <url>
+    <loc>https://www.phantom-blade-zero-wiki.wiki/en/phantom-edges/phantom-edges-combos/</loc>
+    <lastmod>2026-08-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.phantom-blade-zero-wiki.wiki/en/phantom-edges/phantom-edges-combos/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.phantom-blade-zero-wiki.wiki/en/phantom-edges/phantom-edges-combos/" />
+  </url>
+  <url>
+    <loc>https://www.phantom-blade-zero-wiki.wiki/en/phantom-edges/phantom-edges-tier-list/</loc>
+    <lastmod>2026-08-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.phantom-blade-zero-wiki.wiki/en/phantom-edges/phantom-edges-tier-list/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.phantom-blade-zero-wiki.wiki/en/phantom-edges/phantom-edges-tier-list/" />
+  </url>
+  <url>
+    <loc>https://www.phantom-blade-zero-wiki.wiki/en/tier-list/phantom-edges-tier-list/</loc>
+    <lastmod>2026-08-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.phantom-blade-zero-wiki.wiki/en/tier-list/phantom-edges-tier-list/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.phantom-blade-zero-wiki.wiki/en/tier-list/phantom-edges-tier-list/" />
+  </url>
+  <url>
+    <loc>https://www.phantom-blade-zero-wiki.wiki/en/updates/pre-order-guide/</loc>
+    <lastmod>2026-08-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.phantom-blade-zero-wiki.wiki/en/updates/pre-order-guide/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.phantom-blade-zero-wiki.wiki/en/updates/pre-order-guide/" />
+  </url>
+  <url>
+    <loc>https://www.phantom-blade-zero-wiki.wiki/en/boss-guide/red-wraith-boss-fight/</loc>
+    <lastmod>2026-08-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.phantom-blade-zero-wiki.wiki/en/boss-guide/red-wraith-boss-fight/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.phantom-blade-zero-wiki.wiki/en/boss-guide/red-wraith-boss-fight/" />
+  </url>
+  <url>
+    <loc>https://www.phantom-blade-zero-wiki.wiki/en/updates/release-date-october-2026/</loc>
+    <lastmod>2026-08-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.phantom-blade-zero-wiki.wiki/en/updates/release-date-october-2026/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.phantom-blade-zero-wiki.wiki/en/updates/release-date-october-2026/" />
+  </url>
+  <url>
+    <loc>https://www.phantom-blade-zero-wiki.wiki/en/tier-list/s-tier-weapons/</loc>
+    <lastmod>2026-08-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.phantom-blade-zero-wiki.wiki/en/tier-list/s-tier-weapons/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.phantom-blade-zero-wiki.wiki/en/tier-list/s-tier-weapons/" />
+  </url>
+  <url>
+    <loc>https://www.phantom-blade-zero-wiki.wiki/en/weapons/sanguine-longsword/</loc>
+    <lastmod>2026-08-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.phantom-blade-zero-wiki.wiki/en/weapons/sanguine-longsword/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.phantom-blade-zero-wiki.wiki/en/weapons/sanguine-longsword/" />
+  </url>
+  <url>
+    <loc>https://www.phantom-blade-zero-wiki.wiki/en/weapons/seamless-death-chakram/</loc>
+    <lastmod>2026-08-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.phantom-blade-zero-wiki.wiki/en/weapons/seamless-death-chakram/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.phantom-blade-zero-wiki.wiki/en/weapons/seamless-death-chakram/" />
+  </url>
+  <url>
+    <loc>https://www.phantom-blade-zero-wiki.wiki/en/guides/sha-chi-guide/</loc>
+    <lastmod>2026-08-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.phantom-blade-zero-wiki.wiki/en/guides/sha-chi-guide/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.phantom-blade-zero-wiki.wiki/en/guides/sha-chi-guide/" />
+  </url>
+  <url>
+    <loc>https://www.phantom-blade-zero-wiki.wiki/en/combat/sha-chi-meter-explained/</loc>
+    <lastmod>2026-08-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.phantom-blade-zero-wiki.wiki/en/combat/sha-chi-meter-explained/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.phantom-blade-zero-wiki.wiki/en/combat/sha-chi-meter-explained/" />
+  </url>
+  <url>
+    <loc>https://www.phantom-blade-zero-wiki.wiki/en/endings/side-quests-affect-endings/</loc>
+    <lastmod>2026-08-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.phantom-blade-zero-wiki.wiki/en/endings/side-quests-affect-endings/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.phantom-blade-zero-wiki.wiki/en/endings/side-quests-affect-endings/" />
+  </url>
+  <url>
+    <loc>https://www.phantom-blade-zero-wiki.wiki/en/weapons/soft-snake-sword/</loc>
+    <lastmod>2026-08-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.phantom-blade-zero-wiki.wiki/en/weapons/soft-snake-sword/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.phantom-blade-zero-wiki.wiki/en/weapons/soft-snake-sword/" />
+  </url>
+  <url>
+    <loc>https://www.phantom-blade-zero-wiki.wiki/en/updates/steam-wishlist-milestone/</loc>
+    <lastmod>2026-08-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.phantom-blade-zero-wiki.wiki/en/updates/steam-wishlist-milestone/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.phantom-blade-zero-wiki.wiki/en/updates/steam-wishlist-milestone/" />
+  </url>
+  <url>
+    <loc>https://www.phantom-blade-zero-wiki.wiki/en/lore/story-explained/</loc>
+    <lastmod>2026-08-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.phantom-blade-zero-wiki.wiki/en/lore/story-explained/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.phantom-blade-zero-wiki.wiki/en/lore/story-explained/" />
+  </url>
+  <url>
+    <loc>https://www.phantom-blade-zero-wiki.wiki/en/lore/the-order-organization/</loc>
+    <lastmod>2026-08-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.phantom-blade-zero-wiki.wiki/en/lore/the-order-organization/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.phantom-blade-zero-wiki.wiki/en/lore/the-order-organization/" />
+  </url>
+  <url>
+    <loc>https://www.phantom-blade-zero-wiki.wiki/en/boss-guide/tiesha-the-frenzy-boss/</loc>
+    <lastmod>2026-08-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.phantom-blade-zero-wiki.wiki/en/boss-guide/tiesha-the-frenzy-boss/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.phantom-blade-zero-wiki.wiki/en/boss-guide/tiesha-the-frenzy-boss/" />
+  </url>
+  <url>
+    <loc>https://www.phantom-blade-zero-wiki.wiki/en/guides/tips-and-tricks/</loc>
+    <lastmod>2026-08-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.phantom-blade-zero-wiki.wiki/en/guides/tips-and-tricks/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.phantom-blade-zero-wiki.wiki/en/guides/tips-and-tricks/" />
+  </url>
+  <url>
+    <loc>https://www.phantom-blade-zero-wiki.wiki/en/endings/true-ending/</loc>
+    <lastmod>2026-08-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.phantom-blade-zero-wiki.wiki/en/endings/true-ending/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.phantom-blade-zero-wiki.wiki/en/endings/true-ending/" />
+  </url>
+  <url>
+    <loc>https://www.phantom-blade-zero-wiki.wiki/en/boss-guide/wan-jun-coppermaul-strategy/</loc>
+    <lastmod>2026-08-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.phantom-blade-zero-wiki.wiki/en/boss-guide/wan-jun-coppermaul-strategy/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.phantom-blade-zero-wiki.wiki/en/boss-guide/wan-jun-coppermaul-strategy/" />
+  </url>
+  <url>
+    <loc>https://www.phantom-blade-zero-wiki.wiki/en/weapons/weapon-tier-list/</loc>
+    <lastmod>2026-08-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.phantom-blade-zero-wiki.wiki/en/weapons/weapon-tier-list/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.phantom-blade-zero-wiki.wiki/en/weapons/weapon-tier-list/" />
+  </url>
+</urlset>

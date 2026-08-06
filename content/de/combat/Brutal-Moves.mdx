@@ -1,0 +1,121 @@
+export const metadata = {
+    id: "brutal-moves",
+    slug: "brutal-moves",
+    order: 7,
+    difficulty: "intermediate",
+    title: "Phantom Blade Zero Brutal Moves: Kompletter Kampfleitfaden",
+    description: "Meistere die Brutal Moves von Phantom Blade Zero mit diesem Kampfleitfaden. Lerne, wie du Ausführungen verkettest, den Breached State auslöst und in jedem Kampf gegen schwierige Bossgegner dominiertest.",
+    keywords: ["Phantom Blade Zero Brutal Moves"],
+    image: "/images/combat/J5SjqTw3mZI.webp",
+    video: "J5SjqTw3mZI",
+    category: "combat",
+    date: "2026-08-06",
+    lastModified: "2026-08-06"
+}
+
+Brutal Moves sind die benannten Ausführungsanimationen mit hohem Schaden in Phantom Blade Zero, die präzises Timing, volles Heavy-Charge-Commitment und gut verwaltetes Ausdauermanagement belohnen. Diese Sequenzen werden ausgelöst, sobald du eine vollständig aufgeladene Heavy-Angriffsbewegung gegen einen Gegner freigibst, der sich bereits im **Breached State** befindet, und verwandeln einen gewöhnlichen Austausch in einen filmischen Finisher, der die Erholungsphase des Gegners überspringt. Spieler, die das Timing der Brutal Moves in Phantom Blade Zero meistern, erlangen einen entscheidenden Vorteil gegen Elite-Minibosse und schwierige Bossgegnervarianten, da jede Ausführung eine neue Stagger-Schleife für Folge-Schaden öffnet.
+
+Dieser Leitfaden erklärt jede Mechanik, die du benötigst, um Brutal Moves mit Zuversicht über den August-2026-Patch hinweg zu kontrollieren. Du lernst das genaue Eingabefenster, die Schadens- und Ausdauer-Skalierungsregeln und welche Waffenarchetypen die längsten Ausführungsketten erzeugen. Entdecke, wie du Phantom Blade Zero Brutal Moves in eine Breached-State-Rotation webst, denn das System belohnt Spieler, die drei Finisher im Voraus planen, anstatt einzelne Treffer zu spammen.
+
+## Was sind Brutal Moves in Phantom Blade Zero
+
+Brutal Moves sind die offensive Entlohnungsebene für die defensiven Mechaniken, die in unserem [Phantom Blade Zero Kampfleitfaden](/de/guides/combat-guide/) erklärt werden, und jeder Finisher verwandelt deine erfolgreichen Ausweichmanöver und Parierungen in direkten Schaden. Jede Ausführung überspringt ungefähr eine halbe Sekunde der Erholung des Gegners, was bedeutet, dass der Gegner während der Animation nicht countern, sich zurückziehen oder seine Haltung wiederherstellen kann. Die Designabsicht ist klar: Aggressive Spieler, die ihr Ausdauermanagement gut beherrschen, werden belohnt, während Spieler, die einfach auf die Eingabe drücken, durch Unterbrechungen und Ausdauerverlust bestraft werden.
+
+Die grundlegende Auslösersequenz besteht aus drei Teilen. Zuerst musst du den Gegner durch eine kritische Parade oder einen Haltungstod in den **Breached State** versetzen. Zweitens musst du eine Heavy-Angriffs-Eingabe gedrückt halten, bis der Ladebalken voll ist. Drittens musst du die Ladung innerhalb des kleinen Erholungsfensters deines letzten erfolgreichen Treffers freigeben. Laut Community-Tests auf dem August-2026-Patch liegt das praktische Eingabefenster für Phantom Blade Zero Brutal Moves bei etwa zwölf Frames auf Standard-Schwierigkeit, obwohl dieser Wert je nach Plattform und Bildwiederholrate um ein oder zwei Frames abweichen kann. Wenn das Fenster verpasst wird, erfolgt ein normaler Heavy-Schlag, der einen respektablen Schaden verursacht, aber keine Ausführung auslöst.
+
+Brutal Moves speisen sich auch in die Breached-State-Wirtschaft ein, was sie über lange Kämpfe hinweg nachhaltig macht. Ein gelandeter Finisher erstattet die **Sha-Chi**-Kosten des auslösenden Heavy-Angriffs vollständig zurück, was bedeutet, dass eine erfolgreiche Kette aus drei Brutal Moves fast genauso viel Ausdauer kostet wie eine einzelne ungeladene Kombination. Diese Reziprozität zwischen den beiden Systemen ist das Fundament des fortgeschrittenen Kampfes in Phantom Blade Zero, und es ist einer der Gründe, warum die Schadens-Builds mit dem höchsten Schaden im Spiel alle auf wiederholte Finisher ausgerichtet sind und nicht auf einzelne Großtreffer. Für die offizielle Funktionsbeschreibung kannst du die Storeseite auf [Phantom Blade Zero Steam](https://store.steampowered.com/app/4115450/Phantom_Blade_Zero/) lesen.
+
+| Move Typ | Auslösebedingung | Ausdauerkosten | Typischer Schaden | Sha-Chi Erstattung |
+|-----------|-------------------|----------------|------------------|-------------------|
+| Light Brutal | Aufgeladener Leicht + Breached Ziel | 15 | Mäßig | Voll |
+| Heavy Brutal | Aufgeladener Heavy + Breached Ziel | 25 | Hoch | Voll |
+| Aerial Brutal | Aufgeladener Luft + Breached Ziel | 20 | Hoch | Teilweise |
+| Dual Brutal | Zweihändig aufgeladen + Breached Ziel | 30 | Sehr hoch | Voll |
+
+## Wie das Brutal Moves System funktioniert
+
+Das Brutal Moves System in Phantom Blade Zero operiert auf drei Ebenen, die du gleichzeitig verwalten musst: Eingabeerkennung, **Breached State**-Validierung und Animationswiedergabe. Jede Ebene hat ihre eigenen Timing-Regeln, und die Spieler, die konsistent drei Finisher in einem einzigen Kampf verkettet ausführen, sind diejenigen, die alle drei Ebenen verinnerlicht haben, anstatt das System als einen einzelnen Tastendruck zu behandeln.
+
+### Auslösebedingungen und Eingabefenster
+
+Die erste Voraussetzung ist, dass sich der Gegner bereits im **Breached State** befindet, der nach einer kritischen Parade oder einem Haltungstod ausgelöst wird. Die zweite Voraussetzung ist, dass du eine vollständig aufgeladene Heavy-Angriffsbewegung innerhalb der Erholungsframes deines letzten erfolgreichen Treffers freigeben musst, da das Spiel nur während dieses kurzen Fensters nach einer Brutal Move-Eingabe prüft. Laut auf Community-Foren aggregierter Spielerberichte liegt das praktische Fenster für Phantom Blade Zero Brutal Moves bei etwa 0,2 Sekunden, obwohl Spieler mit Monitoren höherer Bildwiederholrate bis zu einen Frame Vorteil berichten.
+
+Spieler verwechseln oft das Brutal Move-Fenster mit einer Parier-Folge, aber die beiden Systeme sind unterschiedlich und belohnen verschiedene Fähigkeiten. Parier-Folgen treten während deiner eigenen Erholung auf und führen in schnelle Kombos, während Brutal Moves ein zusätzliches Halten der Ladung auf einem bereits Breached Ziel erfordern. Wenn du noch nicht die Parier-Timing gelernt hast, deckt der [Phantom Blade Zero Parier-Leitfaden](/de/guides/how-to-parry/) die defensive Seite im Detail ab, und die Kombination dieses Wissens mit der Brutal Move-Ausführung ist die stärkste Eröffnungssequenz im Spiel.
+
+### Schadens- und Ausdauer-Skalierungsregeln
+
+Der Schaden für Phantom Blade Zero Brutal Moves skaliert mit drei Variablen: der Basis-Schadensstatistik deiner Waffe, deinem **Sha-Chi**-Multiplikator im Moment des Finishers und einem pauschalen Bonus, der gegen Breached Gegner aktiviert wird. Die Ausdauerkosten bleiben pro Waffentyp konstant, was bedeutet, dass du dein Ausdauerbudget um die Anzahl der Finisher planen kannst, die du in einem einzigen Kampf landen möchtest, ohne dich um schwankende Schadenswerte pro Treffer kümmern zu müssen.
+
+Nachfolgend findest du eine repräsentative Skalierungstabelle, die auf Community-Tests basiert. Werte können sich zwischen Patches und Schwierigkeitsgraden verschieben, aber die relativen Verhältnisse zwischen den Waffenklassen bleiben über Updates hinweg stabil.
+
+| Waffenklasse | Basisschaden | Maximaler Sha-Chi Bonus | Breached Bonus | Schadenshöchstwert |
+|--------------|-------------|-------------------------|----------------|-------------------|
+| Jian | 180 | x1,4 | +25% | ~315 |
+| Dao | 165 | x1,5 | +25% | ~309 |
+| Dadao | 240 | x1,3 | +30% | ~405 |
+| Twin Needles | 140 | x1,6 | +20% | ~268 |
+
+Die **Dadao**-Klasse bietet den höchsten rohen Schadenshöchstwert, während **Twin Needles** bei Geschwindigkeit und Sha-Chi-Multiplikator gewinnen. Die Wahl der richtigen Waffe für deinen Brutal Move-Spielstil ist eine langfristige Entscheidung, und die [offizielle Phantom Blade Zero Website](https://pbz.s-game.com/) bestätigt, dass diese Schadenswerte darauf abgestimmt sind, mehrere tragfähige Builds zu fördern, anstatt eine einzelne beste Ausrüstung zu begünstigen.
+
+## Brutal Moves nach Waffentyp
+
+Die Wahl der Waffe bestimmt, welche Phantom Blade Zero Brutal Moves du nutzen kannst, wie lange jede Animation dauert und wie viel Ausdauer du pro Ausführung aufwenden musst. Dieser Abschnitt zerlegt die zwei beliebtesten Waffenarchetypen unter Finisher-fokussierten Spielern und erklärt, wie jede einzelne in realen Kämpfen abschneidet.
+
+### Leichte Waffen Brutal Sequenzen
+
+Leichte Waffen wie das **Jian** und das **Dao** erzeugen die schnellsten Brutal Moves in Phantom Blade Zero, mit Animationszeiten zwischen 1,4 und 1,7 Sekunden. Der Lohn für diese Geschwindigkeit ist ein niedrigerer roher Schaden pro Finisher, aber du kannst zwei oder drei Brutal Moves direkt hintereinander ausführen, dank der schnelleren Erholung und der günstigeren Ausdauerkosten pro Treffer. Leichte Waffen haben auch in der Praxis ein etwas größeres Eingabefenster, weil die kürzere Animation es dir ermöglicht, schneller in die nächste Ladung zurückzukehren.
+
+Spieler, die konstante Aggression bevorzugen, verwenden typischerweise das **Jian** zusammen mit dem **Ghostep**-Dash Cancel, da die Invincibility-Frames von Ghostep den Beginn jeder Ladungsanimation abdecken und es dir ermöglichen, sofort nach dem Landen des ersten Finishers den nächsten Brutal Move zu starten. Wenn du dies mit der Dual-Wield-Variante der Phantom Blade Zero Brutal Moves kombinierst, stapeln die **Twin Needles** zwei separate Breached-Erweiterungen pro Ausführung, was bedeutet, dass eine einzige Eröffnung eine Kombinationsschleife über drei oder vier Finisher hinweg ohne Ausfallzeit tragen kann.
+
+### Schwergewichts-Waffen Brutal Sequenzen
+
+Schwere Waffen wie die **Dadao** und die Hammer-Klasse erzeugen die langsamsten, aber am meisten bestrafenden Phantom Blade Zero Brutal Moves in jedem Patch. Jede Ausführung dauert bis zu 2,4 Sekunden und verbraucht rund 28 Ausdauer, aber der gesamte Schadenshöchstwert übersteigt bei einem vollständig aufgelevelten Charakter 400 Punkte. Da die Animation so lang ist, erfordern schwere Brutal Moves ein volles Commitment, sobald du die Eingabe drückst, denn das Abbrechen mitten in der Animation verschwendet die gesamte Ausdauerkosten ohne Erstattung von Sha-Chi.
+
+Der Kompromiss ist real, aber er zahlt sich in Bosskämpfen aus, bei denen jeder Schadenspunkt zählt. Schwere Brutal Moves strecken auch fast jeden Nicht-Boss-Gegner beim Treffer, was es dir ermöglicht, direkt in den nächsten Breached Finisher zu wechseln, ohne deine Kombination zurückzusetzen oder erneut Haltungdruck auszuüben. Für Spieler, die den höchsten Einzel-Finisher-Wert suchen, ist die **Dadao** die sicherste Wahl, während die Hammer-Klasse eine geringe Menge an Schaden gegen eine breitere Trefferzone eintauscht, die ausweichende Ziele erfasst.
+
+| Waffe | Animationsdauer | Ausdauerkosten | Beste Anwendung |
+|-------|-----------------|----------------|----------------|
+| Jian | 1,4s | 15 | Gruppenkontrolle, schnelle Ketten |
+| Dao | 1,6s | 18 | Ausgewogen Einzelziel |
+| Dadao | 2,2s | 28 | Bossschaden, Einzeltreffer |
+| Twin Needles | 1,5s | 22 | Kombinationsverlängerungen, Doppeltreffer |
+
+## Boss- und Begegnungsstrategien für Brutal Moves
+
+Bei Bossgegnervarianten verschiebt sich der Wert der Phantom Blade Zero Brutal Moves von rohem Schaden auf Kampfpacing. Bosse haben riesige Gesundheitspools und enge Straffenfenster, daher kann das Verkettung von zwei oder drei Finishern in einem einzigen Stagger die Gesamtdauer eines Kampfes um dreißig Sekunden oder mehr auf dem August-2026-Patch verkürzen. Der Schlüssel besteht darin, deinen aufgeladenen Heavy-Angriff für den Moment auszulösen, in dem der Boss seine Erholung beendet, und nicht für den Moment, in dem sein Haltungsbalken visuell voll ist, da die Breached-State-Animation immer einen Bruchteil einer Sekunde nach dem Abschluss des Balkens abgespielt wird.
+
+Nachfolgend findest du eine empfohlene Prioritätenliste, die auf Community-Tests zum aktuellen Patch basiert. Die Zahlen spiegeln die durchschnittliche Leistung auf Standard-Schwierigkeit wider und können je nach Build und Waffenwahl variieren.
+
+| Bossphase | Brutal Move Strategie | Erwarteter Schadensanteil |
+|------------|----------------------|---------------------------|
+| Phase 1 (volle Haltung) | 1 Finisher pro Stagger-Fenster | ~15% des Gesamthp |
+| Phase 2 (wütend) | 2 Finisher direkt hintereinander | ~25% des Gesamthp |
+| Phase 3 (niedrige HP) | Finisher auslassen, reine Heavy-Angriffe verwenden | ~5% des Gesamthp |
+
+Der Grund, warum Phase 3 Brutal Moves herunterpriorisiert, ist, dass die meisten Bosse während ihrer Verzweiflungsphase in eine schnellere Erholungsschleife wechseln und die lange Ladeeingabe dich anfällig für One-Hit-Kombinationen macht. Der Wechsel zu Standard-Heavy-Angriffen in der Schlussphase ist eine sicherere Wette, da die kürzere Animation dich in deinem defensiven Invincibility-Frame-Budget hält.
+
+Spieler, die mit der Parier-Timing Schwierigkeiten haben, sollten in Betracht ziehen, in einen aufgeladenen Heavy-Angriff auszuweichen, da die Ausweich-Invincibility-Frames die erste Hälfte der Ladungsanimation abdecken und es dir ermöglichen, die Brutal Move-Eingabe von einer sichereren Position aus zu starten. Für allgemeine Kampfgrundlagen einschließlich Ausdauermanagement, Sha-Chi-Wirtschaft und dem Ghostep-Dash-Cancel, der die gesamte Schleife zusammenhält, ist der [Phantom Blade Zero Tipps und Tricks Leitfaden](/de/guides/tips-and-tricks/) die beste Begleitlektüre nach diesem Artikel. Dieses Wissen auf das Brutal Move-Timing anzuwenden, das hier behandelt wird, ist es, was Spieler, die pro Kampf nur einen Finisher landen, von denen unterscheidet, die Bossgegnervarianten in drei oder vier Stagger-Fenstern beenden.
+
+## Häufig gestellte Fragen
+
+**Was löst einen Brutal Move in Phantom Blade Zero aus?**
+
+Ein Brutal Move wird ausgelöst, wenn du einen vollständig aufgeladenen Heavy-Angriff gegen einen Gegner im **Breached State** freigibst. Der Gegner muss bereits durch eine vorherige kritische Parade oder einen Haltungstod ins Straucheln geraten sein, und du musst die Ladung innerhalb von ungefähr 0,2 Sekunden deiner Erholung freigeben, da das Spiel nur während dieses kurzen Frame-Fensters nach der Brutal Move-Eingabe prüft.
+
+**Haben alle Waffen einzigartige Brutal Move-Animationen?**
+
+Ja. Jede Waffenklasse in Phantom Blade Zero hat ihr eigenes Animationsset für Brutal Moves, mit realen Unterschieden in Länge, Trefferanzahl und Schadensausbeute. Leichte Waffen wie das **Jian** spielen schnellere, aber schwächere Sequenzen, während schwere Waffen wie die **Dadao** längere, aber schadenswertere Sequenzen spielen, und die **Twin Needles** eine Dual-Hit-Variante hinzufügen, die pro Ausführung zwei Breached-Erweiterungen stapelt.
+
+**Kann ich mehrere Brutal Moves in einer einzigen Kombination verkettet ausführen?**
+
+Du kannst zwei oder drei Brutal Moves direkt hintereinander verkettet ausführen, wenn dein Ausdauer- und **Sha-Chi**-Budget es zulässt. Leichte und Zweihand-Waffen sind am einfachsten zu verkettet, da ihre Ausdauerkosten pro Finisher niedrig sind und ihre Animationen schnell genug enden, um die nächste Ladung innerhalb des Erholungsfensters zu starten.
+
+**Funktionieren Brutal Moves im PvP?**
+
+Ab August 2026 verwendet die PvP-Phase von Phantom Blade Zero die gleichen Brutal Move-Auslöser wie PvE, aber das Eingabefenster ist aufgrund der Netzwerklatenz enger, was die Ausführung gegen einen menschlichen Gegner, der seine Erholungszeit variieren kann, schwieriger zu landen macht. Übe zuerst im PvE, wenn du Brutal Moves im Wettbewerb einsetzen möchtest, da das Fenster gegen eine KI großzügiger ist.
+
+**Welche Waffe ist die beste für Brutal Moves insgesamt?**
+
+Die **Dadao** bietet den höchsten Einzel-Finisher-Schadenshöchstwert für Phantom Blade Zero Brutal Moves, während die **Twin Needles** dank ihrer Dual-Hit-Animation die besten Kombinationsverlängerungen bieten. Wenn du eine ausgewogene Option möchtest, die in jeder Begegnung funktioniert, ohne viel Schaden zu opfern, ist die **Dao** die sicherste Wahl für die meisten Spieler, die das System zum ersten Mal lernen.
+
+Welche Waffe wirst du als Erstes mit Phantom Blade Zero Brutal Moves kombinieren, und welchen Boss planst du mit der neuen Finisher-Kette zu brechen? Teile deine Ausrüstungskonfiguration in den Kommentaren und teile diesen Leitfaden mit einem Freund, der immer noch in Phase 2 feststeckt.

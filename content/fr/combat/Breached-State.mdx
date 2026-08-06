@@ -1,0 +1,125 @@
+export const metadata = {
+    id: "breached-state",
+    slug: "breached-state",
+    order: 7,
+    difficulty: "intermediate",
+    title: "Le Breached State de Phantom Blade Zero Expliqué Et Comment Y Survivre",
+    description: "Maîtrisez le mécanisme Breached State de Phantom Blade Zero — apprenez comment fonctionne l'épuisement du Sha-Chi, ce qui le déclenche, et les stratégies éprouvées pour récupérer en toute sécurité au combat.",
+    keywords: ["Breached State Phantom Blade Zero"],
+    image: "/images/combat/19I7BhoR2Zk.webp",
+    video: "19I7BhoR2Zk",
+    category: "combat",
+    date: "2026-08-06",
+    lastModified: "2026-08-06"
+}
+
+Le **Breached state** (état de brèche) dans Phantom Blade Zero est le moment le plus dangereux auquel vous pouvez vous retrouver pendant un combat, et chaque joueur de Soul finit par apprendre à y survivre. Il se produit à l'instant précis où votre **jauge de Sha-Chi** atteint zéro, vous privant de la barrière d'énergie qui amortit normalement les coups entrants. Si vous vous êtes déjà demandé pourquoi un boss vous supprime soudainement la moitié de votre barre de vie, ou pourquoi une chaîne d'attaques apparemment mineures vous laisse étendu au sol, la réponse remonte presque toujours à ce seul mécanisme. Comprendre le Breached state de Phantom Blade Zero fait la différence entre sauver sa run et voir son fichier de sauvegarde s'effondrer, car le jeu punit impitoyablement les joueurs qui ignorent ses fenêtres de récupération.
+
+## Qu'est-ce que le Breached State dans Phantom Blade Zero
+
+Le Breached state est une condition d'échec défensif qui s'active dès que votre **jauge de Sha-Chi** est entièrement consommée par les dégâts bloqués, les parries partielles ou certaines attaques ennemies qui contournent la barrière directement. Selon la description de la [page Steam de Phantom Blade Zero](https://store.steampowered.com/app/4115450/Phantom_Blade_Zero/) et du [site officiel](https://pbz.s-game.com/), le Sha-Chi fonctionne comme une couche d'endurance secondaire superposée à votre santé régulière, et son épuisement supprime votre capacité à bloquer efficacement. Une fois la jauge à zéro, la posture de votre personnage change visuellement, l'aura ambiante de l'Âme vacille, et les attaques entrantes contournent la réduction de blocage standard.
+
+### Le déclencheur principal : l'épuisement du Sha-Chi
+
+Chaque action défensive dans Phantom Blade Zero consomme du Sha-Chi avant de puiser dans votre santé. Cette ressource se régénère passivement lorsque vous ne bloquez pas et s'accélère lorsque vous touchez l'ennemi avec succès. Le Breached state de Phantom Blade Zero est simplement la condition où la régénération ne suit plus la pression entrante et que la jauge touche le fond. Les joueurs venant des jeux souls-like passent souvent à côté de ce détail car la barre d'endurance habituelle semble inchangée, mais c'est l'anneau de Sha-Chi au-dessus de la barre de santé qui compte vraiment pendant un affrontement en Breached state.
+
+| Ressource | Rôle | Se régénère quand | Épuisé par |
+|---|---|---|---|
+| **Santé** | Buffer létal final | Objets de soin, certaines capacités | Coups non bloqués, dégâts résiduels |
+| **Endurance** | Fuite, sprint, chaîne d'attaques | Temps au repos | Esquives, sprints, attaques légères |
+| **Sha-Chi** | Barrière de blocage / catalyseur de parade | Touche l'ennemi, repos (lent) | Blocage d'attaques, parries partielles |
+
+Lorsque le dernier rang de cette économie s'effondre, chaque blocage ultérieur se comporte comme si vous n'aviez aucun bouclier, et le jeu augmente les dégâts entrants d'environ 30 à 40 pour cent selon les tests communautaires du guide [Phantom Blade Zero Tips And Tricks](/fr/guides/tips-and-tricks/).
+
+## Comment le Breached State modifie le combat
+
+Entrer dans le Breached state de Phantom Blade Zero n'est pas un simple effet de statut discret — il réécrit fondamentalement la façon dont le jeu traite votre personnage pendant les quelques secondes qui suivent. L'Âme perd son absorption passive des dégâts résiduels, la fenêtre de timing pour la parade se réduit, et certaines chaînes d'attaques ennemies gagnent un coup supplémentaire qui rebondissait normalement sur votre barrière.
+
+### Pénalités de blocage et de défense
+
+En état de Breached, le blocage ne réduit plus les dégâts entrants à une valeur de dégâts résiduels sûre, ce qui signifie qu'un seul coup lourd bloqué peut retirer une part notable de votre barre de vie. Les tentatives de parade pendant cette fenêtre se comportent également différemment : les frames actives de la parade se contractent, et seuls les inputs parfaitement synchronisés sur les attaques annoncées réussiront. Une parade précipitée dans cette fenêtre entraînera généralement un étourdissement, ce qui est fonctionnellement identique à encaisser le coup directement.
+
+| Option défensive | État normal | État Breached |
+|---|---|---|
+| Bloquer un coup lourd | ~10% de dégâts résiduels | ~65% de dégâts bruts |
+| Blocage léger | Dégâts résiduels négligeables | ~25% de dégâts bruts |
+| Fenêtre de parade | 9 frames actives | 5 frames actives |
+| Coût d'endurance pour bloquer | Standard | Multiplicateur x1,5 |
+
+Si vous avez lu le guide [Phantom Blade Zero How To Parry](/fr/guides/how-to-parry/), le tableau de parade y montre les mêmes mesures de fenêtre, ce qui permet de repérer facilement la pénalité en un coup d'œil pendant un vrai combat.
+
+### Fenêtres d'animation et de récupération
+
+Le Breached state introduit également une brève verrouille de récupération. Lorsque le Sha-Chi touche zéro, votre personnage trébuche pendant environ une demi-seconde, ce qui suffit pour perdre votre positionnement face aux ennemis rapides. Les fenêtres de récupération pour l'esquive s'élargissent légèrement car l'Âme se penche instinctivement vers la fuite, mais le coût d'endurance accru par esquive signifie que vous ne pouvez pas spammer les roulades pour atteindre la sécurité sans vider complètement votre barre d'endurance. C'est pourquoi la plupart des joueurs expérimentés associent le Breached state à la technique [Phantom Blade Zero Ghostep Explained](/fr/guides/ghostep-explained/), qui utilise le Sha-Chi comme carburant au lieu de l'endurance.
+
+## Ennemis qui forcent le Breached State
+
+Tous les ennemis de Phantom Blade Zero ne vous poussent pas en Breached state par les dégâts bruts seuls. Certaines rencontres sont spécifiquement conçues pour ronger la jauge de Sha-Chi avec une pression multi-coups, des effets élémentaires ou des attaques de saisie qui contournent la barrière par conception.
+
+| Classe d'ennemi | Déclencheur de Breached | Lieu courant |
+|---|---|---|
+| Boss **Crimson Warden** | Chaîne de 5 coups après étourdissement | Sunken Chapel, Ash Quarter |
+| Mob **Shattered Cultist** | Chaîne de trois coups rapides | Wrecked Dockyards |
+| Boss **Pale Ronin** | Attaque de saisie ignore le Sha-Chi entièrement | Forgotten Dojo |
+| Mob **Ash-Touched Hound** | Les dégâts de feu drainent la barrière au fil du temps | Cinder Tunnels |
+
+Le **Crimson Warden** est particulièrement redoutable car son ouverture de phase deux est calibrée pour toucher exactement au moment où la plupart des joueurs ont naturellement peu de Sha-Chi après sa première phase, créant un Breached state en cascade qui anéantit les runs des joueurs mal préparés. Le **Shattered Cultist** est le coupable le plus courant, apparaissant dans presque toutes les zones initiales, et c'est la raison pour laquelle la plupart des joueurs débutants font l'expérience de leur premier Breached state dans la première heure de jeu.
+
+## Survivre au Breached State : stratégies de combat
+
+Survivre au Breached state de Phantom Blade Zero dépend moins de la panique que d'un espacement discipliné. L'approche la plus fiable consiste à se désengager proprement dès que le Sha-Chi touche zéro, à régénérer un petit tampon grâce à un coup touché, puis à réengager à votre guise plutôt qu'aux conditions de l'ennemi.
+
+### Espacement et tactiques de retraite
+
+Lorsque vous voyez l'anneau de Sha-Chi s'effondrer, la priorité est de créer de la distance, pas de toucher une dernière attaque. Reculer deux fois suffit à mettre la plupart des ennemis hors de leur portée de combo, ce qui donne à votre régénération passive de Sha-Chi environ trois à quatre secondes pour récupérer un tampon petit mais fonctionnel. Les joueurs qui poursuivent le dernier coup sur une jauge faible déclenchent presque toujours le combo qui suit.
+
+| Option de retraite | Distance gagnée | Sha-Chi récupéré | Niveau de risque |
+|---|---|---|---|
+| Reculer x2 | Moyenne | ~15% de la jauge | Faible |
+| Esquive latérale + sprint | Longue | ~10% de la jauge | Moyen |
+| Ghostep pour s'éloigner | Très longue | Consomme du Sha-Chi | Élevé si bas |
+
+Le guide [Phantom Blade Zero How To Dodge](/fr/guides/how-to-dodge/) couvre les esquives standard d'endurance en détail, mais pendant un Breached state, l'option Ghostep ci-dessus est risquée car elle nécessite du Sha-Chi pour alimenter la téléportation et vous venez de toucher zéro.
+
+### Timing de la contre-attaque
+
+Une fois que vous avez récupéré environ un tiers de votre jauge de Sha-Chi, la fenêtre de contre-attaque s'ouvre. Les ennemis de Phantom Blade Zero ont une animation de récupération post-combo prévisible qui dure entre une seconde et une seconde et demie, et toucher ne serait-ce qu'un coup lourd pendant cette fenêtre accélère la régénération du Sha-Chi bien au-delà du taux passif. Cela crée une boucle de récupération : se désengager, régénérer passivement, toucher une punition, régénérer plus vite, revenir à la défense neutre.
+
+Pour un contexte plus approfondi sur la couche de ressource qui rend cette boucle possible, le guide [Phantom Blade Zero Sha Chi Guide](/fr/guides/sha-chi-guide/) détaille les formules de régénération et les nombres de coups exacts nécessaires pour remplir la jauge depuis zéro.
+
+## Erreurs liées au Breached State à éviter
+
+La plupart des joueurs qui meurent au Breached state de Phantom Blade Zero succombent à l'une de trois habitudes spécifiques. Éviter ces erreurs est souvent une amélioration plus rapide que l'apprentissage de toute nouvelle technique, car le coût de chaque erreur s'accumule sur l'ensemble de l'affrontement.
+
+| Erreur | Pourquoi elle tue | Meilleur choix |
+|---|---|---|
+| Rouler en panique avec une endurance vide | Consomme de l'endurance, pas de frames d'invincibilité | Reculer deux fois, laisser la régénération passive s'activer |
+| Parure avide sur un coup lourd annoncé | La fenêtre n'est que de 5 frames en Breached | Maintenir le blocage, encaisser les dégâts résiduels, attendre le retour du Sha-Chi |
+| Poursuivre le dernier coup sur une jauge basse | Déclenche le Breached state en plein combo | Se désengager, régénérer, réengager en sécurité |
+| Ignorer complètement l'anneau de Sha-Chi | Aucun avertissement avant d'entrer en Breached | Jeter un œil à la jauge après chaque coup bloqué |
+
+L'erreur la plus courante, rouler en panique avec une endurance vide, est le tueur silencieux car elle semble productive. Le roulement utilise de l'endurance sans la sécurité des frames d'invincibilité une fois l'endurance épuisée, et la plupart des morts en Breached state durant les trois premières heures du jeu proviennent de cette séquence exacte : toucher le Breached, rouler en panique, se faire toucher quand même, perdre la moitié de la santé restante.
+
+## Questions Fréquentes
+
+**Combien de temps dure le Breached state de Phantom Blade Zero ?**
+
+Le Breached state lui-même est instantané — c'est une condition, pas un minuteur. Votre jauge de Sha-Chi commence à se régénérer dès qu'elle touche zéro, mais tant qu'elle ne remonte pas au-dessus d'environ 20 pour cent, votre blocage se comporte dans l'état affaibli décrit ci-dessus. Selon les tests communautaires, la récupération complète jusqu'à un état défensif neutre prend généralement entre huit et douze secondes de régénération passive sans dégâts entrants.
+
+**Les ennemis peuvent-ils vous forcer en Breached state sans épuiser le Sha-Chi d'abord ?**
+
+Oui. Les attaques de saisie des boss, certains effets de DOT élémentaires et un certain nombre de capacités d'ennemis de mi-jeu contournent entièrement la barrière de Sha-Chi et appliquent un debuff Breached state directement. La saisie du **Pale Ronin** est l'exemple le plus clair, car elle ignore simultanément le blocage, l'endurance et le Sha-Chi, ce qui est la raison pour laquelle la plupart des joueurs apprennent à esquiver cette attaque spécifique dès qu'ils la voient.
+
+**L'armure ou l'équipement réduisent-ils les dégâts en Breached state ?**
+
+L'armure réduit les dégâts résiduels que vous subissez en Breached, mais elle ne raccourcit pas la durée de la condition elle-même. Les ensembles d'armure lourds tendent à réduire le multiplicateur Breached de 1,4x à environ 1,25x, ce qui est significatif dans les longs combats mais ne change pas la boucle de récupération sous-jacente. Les joueurs qui s'appuient sur l'armure lourde doivent toujours prioriser la régénération rapide du Sha-Chi, car la réduction des dégâts est significative mais pas suffisamment protectrice pour encaisser des combos répétés en Breached state.
+
+**Le Breached state est-il identique en PvP et en PvE ?**
+
+Le mécanisme est identique dans les deux modes, mais les adversaires en PvP peuvent lire votre anneau de Sha-Chi et vous pousser délibérément en Breached state avec des combos de dégâts résiduels qu'ils n'utiliseraient pas en PvE. En PvP, la fenêtre de récupération est traitée comme un état punissable par les joueurs habiles, c'est pourquoi la plupart des joueurs compétitifs utilisent des configurations d'équipement qui boostent la régénération du Sha-Chi spécifiquement pour les matchs en miroir.
+
+**Quel est le moyen le plus rapide de récupérer du Breached state en plein combat de boss ?**
+
+La chaîne de récupération la plus rapide est une seule attaque lourde touchée après le désengagement, car les coups régénèrent le Sha-Chi à environ trois fois le taux passif. Pour les joueurs dont les builds le permettent, consommer un objet de soin qui accorde un bref tampon de Sha-Chi est également efficace, bien que la plupart des affrontements de boss ne laissent pas une fenêtre propre pour utiliser des objets. La séquence de récupération étape par étape complète est détaillée dans le document connexe sur la récupération en Breached state lié plus tôt dans ce guide.
+
+Maintenant que vous comprenez comment le Breached state de Phantom Blade Zero fonctionne sous le capot, mettez-le en pratique lors de votre prochain affrontement : laissez votre Sha-Chi baisser volontairement, observez comment le jeu punit le roulement en panique, puis pratiquez la boucle désengagement-punition jusqu'à ce qu'elle devienne un réflexe musculaire. Laissez un commentaire ci-dessous avec le boss qui a brisé votre série en Breached state en premier, et dites quelle astuce de récupération a fini par fonctionner pour vous.

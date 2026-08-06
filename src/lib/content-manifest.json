@@ -1,0 +1,2390 @@
+{
+  "contentPaths": [
+    {
+      "locale": "en",
+      "contentType": "lore",
+      "slug": "66-days-lore",
+      "segments": [
+        "66-days-lore"
+      ],
+      "importPath": "66-Days-Lore",
+      "title": "Phantom Blade Zero 66 Days Lore and Story Origins"
+    },
+    {
+      "locale": "en",
+      "contentType": "tier-list",
+      "slug": "a-tier-weapons",
+      "segments": [
+        "a-tier-weapons"
+      ],
+      "importPath": "A-Tier-Weapons",
+      "title": "Phantom Blade Zero A Tier Weapons Tier List and Best Picks"
+    },
+    {
+      "locale": "en",
+      "contentType": "boss-guide",
+      "slug": "all-bosses-list",
+      "segments": [
+        "all-bosses-list"
+      ],
+      "importPath": "All-Bosses-List",
+      "title": "Phantom Blade Zero All Bosses List — Every Fight"
+    },
+    {
+      "locale": "en",
+      "contentType": "endings",
+      "slug": "all-endings",
+      "segments": [
+        "all-endings"
+      ],
+      "importPath": "All-Endings",
+      "title": "Phantom Blade Zero All Endings Guide And How To Get Them"
+    },
+    {
+      "locale": "en",
+      "contentType": "phantom-edges",
+      "slug": "all-phantom-edges",
+      "segments": [
+        "all-phantom-edges"
+      ],
+      "importPath": "All-Phantom-Edges",
+      "title": "Phantom Blade Zero All Phantom Edges: Full List"
+    },
+    {
+      "locale": "en",
+      "contentType": "weapons",
+      "slug": "all-weapons-list",
+      "segments": [
+        "all-weapons-list"
+      ],
+      "importPath": "All-Weapons-List",
+      "title": "Phantom Blade Zero All Weapons List: Every Blade Type"
+    },
+    {
+      "locale": "en",
+      "contentType": "tier-list",
+      "slug": "b-tier-weapons",
+      "segments": [
+        "b-tier-weapons"
+      ],
+      "importPath": "B-Tier-Weapons",
+      "title": "Phantom Blade Zero B Tier Weapons Ranked and Reviewed"
+    },
+    {
+      "locale": "en",
+      "contentType": "phantom-edges",
+      "slug": "bashpole-warhammer",
+      "segments": [
+        "bashpole-warhammer"
+      ],
+      "importPath": "Bashpole-Warhammer",
+      "title": "Phantom Blade Zero Bashpole Warhammer Build Guide"
+    },
+    {
+      "locale": "en",
+      "contentType": "guides",
+      "slug": "beginner-guide",
+      "segments": [
+        "beginner-guide"
+      ],
+      "importPath": "Beginner-Guide",
+      "title": "Phantom Blade Zero Beginner Guide: Everything You Need to Know Before Starting"
+    },
+    {
+      "locale": "en",
+      "contentType": "tier-list",
+      "slug": "best-build-tier-list",
+      "segments": [
+        "best-build-tier-list"
+      ],
+      "importPath": "Best-Build-Tier-List",
+      "title": "Phantom Blade Zero Best Build Tier List and Weapon Guide"
+    },
+    {
+      "locale": "en",
+      "contentType": "endings",
+      "slug": "best-ending",
+      "segments": [
+        "best-ending"
+      ],
+      "importPath": "Best-Ending",
+      "title": "Phantom Blade Zero Best Ending Guide: All 8 Outcomes"
+    },
+    {
+      "locale": "en",
+      "contentType": "phantom-edges",
+      "slug": "best-phantom-edges",
+      "segments": [
+        "best-phantom-edges"
+      ],
+      "importPath": "Best-Phantom-Edges",
+      "title": "Phantom Blade Zero Best Phantom Edges Tier List 2026"
+    },
+    {
+      "locale": "en",
+      "contentType": "weapons",
+      "slug": "best-weapons",
+      "segments": [
+        "best-weapons"
+      ],
+      "importPath": "Best-Weapons",
+      "title": "Phantom Blade Zero Best Weapons Tier List for 2026"
+    },
+    {
+      "locale": "en",
+      "contentType": "boss-guide",
+      "slug": "boss-guide",
+      "segments": [
+        "boss-guide"
+      ],
+      "importPath": "Boss-Guide",
+      "title": "Phantom Blade Zero Boss Guide: How To Beat Every Fight"
+    },
+    {
+      "locale": "en",
+      "contentType": "phantom-edges",
+      "slug": "bow-and-arrow",
+      "segments": [
+        "bow-and-arrow"
+      ],
+      "importPath": "Bow-And-Arrow",
+      "title": "Bow and Arrow Phantom Edge in Phantom Blade Zero: Ranged Combat Guide"
+    },
+    {
+      "locale": "en",
+      "contentType": "combat",
+      "slug": "breached-state",
+      "segments": [
+        "breached-state"
+      ],
+      "importPath": "Breached-State",
+      "title": "Phantom Blade Zero Breached State Explained And Surviving It"
+    },
+    {
+      "locale": "en",
+      "contentType": "guides",
+      "slug": "breached-state-recovery",
+      "segments": [
+        "breached-state-recovery"
+      ],
+      "importPath": "Breached-State-Recovery",
+      "title": "Breached State in Phantom Blade Zero: How to Recover When Sha-Chi Runs Out"
+    },
+    {
+      "locale": "en",
+      "contentType": "combat",
+      "slug": "brutal-moves",
+      "segments": [
+        "brutal-moves"
+      ],
+      "importPath": "Brutal-Moves",
+      "title": "Phantom Blade Zero Brutal Moves: Complete Combat Guide"
+    },
+    {
+      "locale": "en",
+      "contentType": "guides",
+      "slug": "checkpoint-bells",
+      "segments": [
+        "checkpoint-bells"
+      ],
+      "importPath": "Checkpoint-Bells",
+      "title": "Phantom Blade Zero Checkpoint Bells Location & Usage Guide"
+    },
+    {
+      "locale": "en",
+      "contentType": "boss-guide",
+      "slug": "chief-disciple-of-seven-stars",
+      "segments": [
+        "chief-disciple-of-seven-stars"
+      ],
+      "importPath": "Chief-Disciple-Of-Seven-Stars",
+      "title": "Phantom Blade Zero Chief Disciple of Seven Stars Boss Guide"
+    },
+    {
+      "locale": "en",
+      "contentType": "guides",
+      "slug": "combat-guide",
+      "segments": [
+        "combat-guide"
+      ],
+      "importPath": "Combat-Guide",
+      "title": "Phantom Blade Zero Combat Guide: Master Every Fight"
+    },
+    {
+      "locale": "en",
+      "contentType": "combat",
+      "slug": "combat-mechanics",
+      "segments": [
+        "combat-mechanics"
+      ],
+      "importPath": "Combat-Mechanics",
+      "title": "Phantom Blade Zero Combat Mechanics Full Breakdown"
+    },
+    {
+      "locale": "en",
+      "contentType": "boss-guide",
+      "slug": "coppermaul-boss-fight",
+      "segments": [
+        "coppermaul-boss-fight"
+      ],
+      "importPath": "Coppermaul-Boss-Fight",
+      "title": "Phantom Blade Zero Coppermaul Boss Fight Complete Guide"
+    },
+    {
+      "locale": "en",
+      "contentType": "guides",
+      "slug": "death-system-66-days",
+      "segments": [
+        "death-system-66-days"
+      ],
+      "importPath": "Death-System-66-Days",
+      "title": "The 66-Day Death System in Phantom Blade Zero: Complete Mechanics Guide"
+    },
+    {
+      "locale": "en",
+      "contentType": "updates",
+      "slug": "delay-announcement",
+      "segments": [
+        "delay-announcement"
+      ],
+      "importPath": "Delay-Announcement",
+      "title": "Phantom Blade Zero Delay Announcement: New Release Date"
+    },
+    {
+      "locale": "en",
+      "contentType": "difficulty",
+      "slug": "difficulty-modes-explained",
+      "segments": [
+        "difficulty-modes-explained"
+      ],
+      "importPath": "Difficulty-Modes-Explained",
+      "title": "Phantom Blade Zero Difficulty Modes and What to Pick"
+    },
+    {
+      "locale": "en",
+      "contentType": "combat",
+      "slug": "dodge-mechanics",
+      "segments": [
+        "dodge-mechanics"
+      ],
+      "importPath": "Dodge-Mechanics",
+      "title": "Dodge Mechanics in Phantom Blade Zero: I-Frames, Dodge Types and When to Dodge"
+    },
+    {
+      "locale": "en",
+      "contentType": "endings",
+      "slug": "ending-conditions",
+      "segments": [
+        "ending-conditions"
+      ],
+      "importPath": "Ending-Conditions",
+      "title": "Phantom Blade Zero Ending Conditions And NG+ Guide"
+    },
+    {
+      "locale": "en",
+      "contentType": "phantom-edges",
+      "slug": "flaming-mane-lion-mask",
+      "segments": [
+        "flaming-mane-lion-mask"
+      ],
+      "importPath": "Flaming-Mane-Lion-Mask",
+      "title": "Phantom Blade Zero Flaming Mane Lion Mask: Full Guide"
+    },
+    {
+      "locale": "en",
+      "contentType": "phantom-edges",
+      "slug": "flaming-mane-mask",
+      "segments": [
+        "flaming-mane-mask"
+      ],
+      "importPath": "Flaming-Mane-Mask",
+      "title": "Flaming Mane Mask Phantom Edge in Phantom Blade Zero: Fire Damage & Abilities"
+    },
+    {
+      "locale": "en",
+      "contentType": "combat",
+      "slug": "ghostep-counter-attack",
+      "segments": [
+        "ghostep-counter-attack"
+      ],
+      "importPath": "Ghostep-Counter-Attack",
+      "title": "Phantom Blade Zero Ghostep Counter Attack Mastery Guide"
+    },
+    {
+      "locale": "en",
+      "contentType": "guides",
+      "slug": "ghostep-explained",
+      "segments": [
+        "ghostep-explained"
+      ],
+      "importPath": "Ghostep-Explained",
+      "title": "Ghostep in Phantom Blade Zero: The Ultimate Counter-Attack Mechanic Explained"
+    },
+    {
+      "locale": "en",
+      "contentType": "difficulty",
+      "slug": "hard-mode-guide",
+      "segments": [
+        "hard-mode-guide"
+      ],
+      "importPath": "Hard-Mode-Guide",
+      "title": "Phantom Blade Zero Hard Mode Guide: Survival Tips & Rewards"
+    },
+    {
+      "locale": "en",
+      "contentType": "difficulty",
+      "slug": "hellwalker-difficulty",
+      "segments": [
+        "hellwalker-difficulty"
+      ],
+      "importPath": "Hellwalker-Difficulty",
+      "title": "Phantom Blade Zero Hellwalker Difficulty Survival Guide"
+    },
+    {
+      "locale": "en",
+      "contentType": "guides",
+      "slug": "how-to-dodge",
+      "segments": [
+        "how-to-dodge"
+      ],
+      "importPath": "How-To-Dodge",
+      "title": "How to Dodge in Phantom Blade Zero: Killer Moves, I-Frames & Recovery"
+    },
+    {
+      "locale": "en",
+      "contentType": "endings",
+      "slug": "how-to-get-all-endings",
+      "segments": [
+        "how-to-get-all-endings"
+      ],
+      "importPath": "How-To-Get-All-Endings",
+      "title": "Phantom Blade Zero All Endings & NG+ Routes Guide"
+    },
+    {
+      "locale": "en",
+      "contentType": "guides",
+      "slug": "how-to-parry",
+      "segments": [
+        "how-to-parry"
+      ],
+      "importPath": "How-To-Parry",
+      "title": "How to Parry in Phantom Blade Zero: Timing, Brutal Moves & Ghostep Triggers"
+    },
+    {
+      "locale": "en",
+      "contentType": "weapons",
+      "slug": "jagged-edge-greatsword",
+      "segments": [
+        "jagged-edge-greatsword"
+      ],
+      "importPath": "Jagged-Edge-Greatsword",
+      "title": "Phantom Blade Zero Jagged Edge Greatsword Build Guide"
+    },
+    {
+      "locale": "en",
+      "contentType": "lore",
+      "slug": "kungfupunk-world",
+      "segments": [
+        "kungfupunk-world"
+      ],
+      "importPath": "Kungfupunk-World",
+      "title": "Phantom Blade Zero Kungfupunk World Setting Deep Dive"
+    },
+    {
+      "locale": "en",
+      "contentType": "lore",
+      "slug": "lore-guide",
+      "segments": [
+        "lore-guide"
+      ],
+      "importPath": "Lore-Guide",
+      "title": "Phantom Blade Zero Lore Guide: World, Factions & History"
+    },
+    {
+      "locale": "en",
+      "contentType": "weapons",
+      "slug": "man-cutter-halberd",
+      "segments": [
+        "man-cutter-halberd"
+      ],
+      "importPath": "Man-Cutter-Halberd",
+      "title": "Man-Cutter Halberd in Phantom Blade Zero: Moveset, Damage & Best Builds"
+    },
+    {
+      "locale": "en",
+      "contentType": "difficulty",
+      "slug": "new-game-plus-guide",
+      "segments": [
+        "new-game-plus-guide"
+      ],
+      "importPath": "New-Game-Plus-Guide",
+      "title": "Phantom Blade Zero New Game Plus Guide: Carry-Over & Endgame Tips"
+    },
+    {
+      "locale": "en",
+      "contentType": "updates",
+      "slug": "new-trailer-2026",
+      "segments": [
+        "new-trailer-2026"
+      ],
+      "importPath": "New-Trailer-2026",
+      "title": "Phantom Blade Zero New Trailer 2026: Breakdown & Updates"
+    },
+    {
+      "locale": "en",
+      "contentType": "difficulty",
+      "slug": "normal-mode-tips",
+      "segments": [
+        "normal-mode-tips"
+      ],
+      "importPath": "Normal-Mode-Tips",
+      "title": "Phantom Blade Zero Normal Mode Tips For New Players"
+    },
+    {
+      "locale": "en",
+      "contentType": "combat",
+      "slug": "parry-system",
+      "segments": [
+        "parry-system"
+      ],
+      "importPath": "Parry-System",
+      "title": "Phantom Blade Zero Parry System: Timing, Windows & Tips"
+    },
+    {
+      "locale": "en",
+      "contentType": "phantom-edges",
+      "slug": "phantom-edges-combos",
+      "segments": [
+        "phantom-edges-combos"
+      ],
+      "importPath": "Phantom-Edges-Combos",
+      "title": "Phantom Edges Combo Guide in Phantom Blade Zero: Weapon Synergies & Switching"
+    },
+    {
+      "locale": "en",
+      "contentType": "phantom-edges",
+      "slug": "phantom-edges-tier-list",
+      "segments": [
+        "phantom-edges-tier-list"
+      ],
+      "importPath": "Phantom-Edges-Tier-List",
+      "title": "Phantom Blade Zero Phantom Edges Tier List: Best Ranked"
+    },
+    {
+      "locale": "en",
+      "contentType": "tier-list",
+      "slug": "phantom-edges-tier-list",
+      "segments": [
+        "phantom-edges-tier-list"
+      ],
+      "importPath": "Phantom-Edges-Tier-List",
+      "title": "Phantom Blade Zero Phantom Edges Tier List and Rankings"
+    },
+    {
+      "locale": "en",
+      "contentType": "updates",
+      "slug": "pre-order-guide",
+      "segments": [
+        "pre-order-guide"
+      ],
+      "importPath": "Pre-Order-Guide",
+      "title": "Phantom Blade Zero Pre-Order Guide: Editions & Bonuses"
+    },
+    {
+      "locale": "en",
+      "contentType": "boss-guide",
+      "slug": "red-wraith-boss-fight",
+      "segments": [
+        "red-wraith-boss-fight"
+      ],
+      "importPath": "Red-Wraith-Boss-Fight",
+      "title": "Phantom Blade Zero Red Wraith Boss Fight Guide and Tips"
+    },
+    {
+      "locale": "en",
+      "contentType": "updates",
+      "slug": "release-date-october-2026",
+      "segments": [
+        "release-date-october-2026"
+      ],
+      "importPath": "Release-Date-October-2026",
+      "title": "Phantom Blade Zero Release Date October 2026 Full Details"
+    },
+    {
+      "locale": "en",
+      "contentType": "tier-list",
+      "slug": "s-tier-weapons",
+      "segments": [
+        "s-tier-weapons"
+      ],
+      "importPath": "S-Tier-Weapons",
+      "title": "Phantom Blade Zero S Tier Weapons: The Complete Ranking"
+    },
+    {
+      "locale": "en",
+      "contentType": "weapons",
+      "slug": "sanguine-longsword",
+      "segments": [
+        "sanguine-longsword"
+      ],
+      "importPath": "Sanguine-Longsword",
+      "title": "Phantom Blade Zero Sanguine Longsword Combat Guide"
+    },
+    {
+      "locale": "en",
+      "contentType": "weapons",
+      "slug": "seamless-death-chakram",
+      "segments": [
+        "seamless-death-chakram"
+      ],
+      "importPath": "Seamless-Death-Chakram",
+      "title": "Phantom Blade Zero Seamless Death Chakram Weapon Guide"
+    },
+    {
+      "locale": "en",
+      "contentType": "guides",
+      "slug": "sha-chi-guide",
+      "segments": [
+        "sha-chi-guide"
+      ],
+      "importPath": "Sha-Chi-Guide",
+      "title": "Phantom Blade Zero Sha-Chi Guide: Mastering Combat Flow"
+    },
+    {
+      "locale": "en",
+      "contentType": "combat",
+      "slug": "sha-chi-meter-explained",
+      "segments": [
+        "sha-chi-meter-explained"
+      ],
+      "importPath": "Sha-Chi-Meter-Explained",
+      "title": "Phantom Blade Zero Sha-Chi Meter Explained: Full Guide"
+    },
+    {
+      "locale": "en",
+      "contentType": "endings",
+      "slug": "side-quests-affect-endings",
+      "segments": [
+        "side-quests-affect-endings"
+      ],
+      "importPath": "Side-Quests-Affect-Endings",
+      "title": "Phantom Blade Zero Side Quests That Unlock All 8 Endings"
+    },
+    {
+      "locale": "en",
+      "contentType": "weapons",
+      "slug": "soft-snake-sword",
+      "segments": [
+        "soft-snake-sword"
+      ],
+      "importPath": "Soft-Snake-Sword",
+      "title": "Soft Snake Sword in Phantom Blade Zero: The Whip-Blade Hybrid Weapon Guide"
+    },
+    {
+      "locale": "en",
+      "contentType": "updates",
+      "slug": "steam-wishlist-milestone",
+      "segments": [
+        "steam-wishlist-milestone"
+      ],
+      "importPath": "Steam-Wishlist-Milestone",
+      "title": "Phantom Blade Zero Steam Wishlist Milestone: What It Means"
+    },
+    {
+      "locale": "en",
+      "contentType": "lore",
+      "slug": "story-explained",
+      "segments": [
+        "story-explained"
+      ],
+      "importPath": "Story-Explained",
+      "title": "Phantom Blade Zero Story Explained: Complete Lore Guide"
+    },
+    {
+      "locale": "en",
+      "contentType": "lore",
+      "slug": "the-order-organization",
+      "segments": [
+        "the-order-organization"
+      ],
+      "importPath": "The-Order-Organization",
+      "title": "Phantom Blade Zero The Order Organization Explained"
+    },
+    {
+      "locale": "en",
+      "contentType": "boss-guide",
+      "slug": "tiesha-the-frenzy-boss",
+      "segments": [
+        "tiesha-the-frenzy-boss"
+      ],
+      "importPath": "Tiesha-The-Frenzy-Boss",
+      "title": "Phantom Blade Zero TieSha the Frenzy Boss Fight Guide"
+    },
+    {
+      "locale": "en",
+      "contentType": "guides",
+      "slug": "tips-and-tricks",
+      "segments": [
+        "tips-and-tricks"
+      ],
+      "importPath": "Tips-And-Tricks",
+      "title": "Phantom Blade Zero Tips and Tricks Every Player Needs"
+    },
+    {
+      "locale": "en",
+      "contentType": "endings",
+      "slug": "true-ending",
+      "segments": [
+        "true-ending"
+      ],
+      "importPath": "True-Ending",
+      "title": "Phantom Blade Zero True Ending: Full Requirements Guide"
+    },
+    {
+      "locale": "en",
+      "contentType": "boss-guide",
+      "slug": "wan-jun-coppermaul-strategy",
+      "segments": [
+        "wan-jun-coppermaul-strategy"
+      ],
+      "importPath": "Wan-Jun-Coppermaul-Strategy",
+      "title": "Phantom Blade Zero Wan Jun Coppermaul Boss Fight Guide"
+    },
+    {
+      "locale": "en",
+      "contentType": "weapons",
+      "slug": "weapon-tier-list",
+      "segments": [
+        "weapon-tier-list"
+      ],
+      "importPath": "Weapon-Tier-List",
+      "title": "Phantom Blade Zero Weapon Tier List: Best Blades Ranked"
+    }
+  ],
+  "tocMap": {
+    "guides:en:beginner-guide": [
+      {
+        "id": "the-66-day-life-system-what-death-really-means",
+        "text": "The 66-Day Life System: What Death Really Means"
+      },
+      {
+        "id": "the-combat-triangle-parry-block-and-dodge",
+        "text": "The Combat Triangle: Parry, Block, and Dodge"
+      },
+      {
+        "id": "color-coded-attacks-gold-means-parry-red-means-dodge",
+        "text": "Color-Coded Attacks: Gold Means Parry, Red Means Dodge"
+      },
+      {
+        "id": "sha-chi-management-the-resource-that-drives-combat",
+        "text": "Sha-Chi Management: The Resource That Drives Combat"
+      },
+      {
+        "id": "choosing-your-first-weapon",
+        "text": "Choosing Your First Weapon"
+      },
+      {
+        "id": "understanding-checkpoint-bells",
+        "text": "Understanding Checkpoint Bells"
+      },
+      {
+        "id": "5-common-beginner-mistakes-to-avoid",
+        "text": "5 Common Beginner Mistakes to Avoid"
+      },
+      {
+        "id": "final-thoughts",
+        "text": "Final Thoughts"
+      }
+    ],
+    "guides:en:breached-state-recovery": [
+      {
+        "id": "breached-state-in-phantom-blade-zero-how-to-recover-when-sha-chi-runs-out",
+        "text": "Breached State in Phantom Blade Zero: How to Recover When Sha-Chi Runs Out"
+      }
+    ],
+    "guides:en:checkpoint-bells": [
+      {
+        "id": "what-checkpoint-bells-actually-do-in-phantom-blade-zero",
+        "text": "What Checkpoint Bells Actually Do in Phantom Blade Zero"
+      },
+      {
+        "id": "how-bell-activation-cost-and-respawn-work",
+        "text": "How Bell Activation, Cost, and Respawn Work"
+      },
+      {
+        "id": "checkpoint-bell-locations-by-region",
+        "text": "Checkpoint Bell Locations by Region"
+      },
+      {
+        "id": "strategies-for-using-phantom-blade-zero-checkpoint-bells-smartly",
+        "text": "Strategies for Using Phantom Blade Zero Checkpoint Bells Smartly"
+      },
+      {
+        "id": "common-bell-mistakes-that-slow-down-a-walkthrough",
+        "text": "Common Bell Mistakes That Slow Down a Walkthrough"
+      },
+      {
+        "id": "frequently-asked-questions",
+        "text": "Frequently Asked Questions"
+      }
+    ],
+    "guides:en:combat-guide": [
+      {
+        "id": "core-combat-mechanics-explained",
+        "text": "Core Combat Mechanics Explained"
+      },
+      {
+        "id": "defensive-options-and-when-to-use-them",
+        "text": "Defensive Options And When To Use Them"
+      },
+      {
+        "id": "movement-ghostep-and-breached-state-recovery",
+        "text": "Movement, Ghostep, And Breached State Recovery"
+      },
+      {
+        "id": "offensive-tactics-combos-finishers-and-weapon-swapping",
+        "text": "Offensive Tactics: Combos, Finishers, And Weapon Swapping"
+      },
+      {
+        "id": "boss-fight-strategy-and-phase-transitions",
+        "text": "Boss Fight Strategy And Phase Transitions"
+      },
+      {
+        "id": "frequently-asked-questions",
+        "text": "Frequently Asked Questions"
+      }
+    ],
+    "guides:en:death-system-66-days": [
+      {
+        "id": "the-premise-why-only-66-days",
+        "text": "The Premise: Why Only 66 Days?"
+      },
+      {
+        "id": "how-the-death-penalty-actually-works",
+        "text": "How the Death Penalty Actually Works"
+      },
+      {
+        "id": "the-8-endings-and-your-remaining-days",
+        "text": "The 8 Endings and Your Remaining Days"
+      },
+      {
+        "id": "strategies-to-minimize-deaths-and-preserve-days",
+        "text": "Strategies to Minimize Deaths and Preserve Days"
+      },
+      {
+        "id": "how-this-differs-from-souls-like-death-penalties",
+        "text": "How This Differs From Souls-Like Death Penalties"
+      },
+      {
+        "id": "the-narrative-weight-of-mortality",
+        "text": "The Narrative Weight of Mortality"
+      },
+      {
+        "id": "what-we-still-dont-know",
+        "text": "What We Still Don't Know"
+      },
+      {
+        "id": "related-guides",
+        "text": "Related Guides"
+      },
+      {
+        "id": "frequently-asked-questions",
+        "text": "Frequently Asked Questions"
+      }
+    ],
+    "guides:en:ghostep-explained": [
+      {
+        "id": "ghostep-in-phantom-blade-zero-the-ultimate-counter-attack-mechanic-explained",
+        "text": "Ghostep in Phantom Blade Zero: The Ultimate Counter-Attack Mechanic Explained"
+      },
+      {
+        "id": "what-is-ghostep",
+        "text": "What Is Ghostep?"
+      },
+      {
+        "id": "the-two-trigger-conditions",
+        "text": "The Two Trigger Conditions"
+      },
+      {
+        "id": "repositioning-and-follow-up-options",
+        "text": "Repositioning and Follow-Up Options"
+      },
+      {
+        "id": "building-a-ghostep-centric-playstyle",
+        "text": "Building a Ghostep-Centric Playstyle"
+      },
+      {
+        "id": "ghostep-timing-mastery-tips",
+        "text": "Ghostep Timing Mastery Tips"
+      },
+      {
+        "id": "ghostep-and-the-wuxia-combat-philosophy",
+        "text": "Ghostep and the Wuxia Combat Philosophy"
+      },
+      {
+        "id": "faq",
+        "text": "FAQ"
+      }
+    ],
+    "guides:en:how-to-dodge": [
+      {
+        "id": "how-to-dodge-in-phantom-blade-zero-killer-moves-i-frames--recovery",
+        "text": "How to Dodge in Phantom Blade Zero: Killer Moves, I-Frames & Recovery"
+      }
+    ],
+    "guides:en:how-to-parry": [
+      {
+        "id": "block-vs-parry-the-fundamental-split",
+        "text": "Block vs. Parry: The Fundamental Split"
+      },
+      {
+        "id": "reading-brutal-moves-the-gold-indicator-system",
+        "text": "Reading Brutal Moves: The Gold Indicator System"
+      },
+      {
+        "id": "perfect-parry-timing-the-window-that-matters",
+        "text": "Perfect Parry Timing: The Window That Matters"
+      },
+      {
+        "id": "ghostep-triggers-turning-defense-into-offense",
+        "text": "Ghostep Triggers: Turning Defense Into Offense"
+      },
+      {
+        "id": "parrying-different-weapon-types-and-enemy-classes",
+        "text": "Parrying Different Weapon Types and Enemy Classes"
+      },
+      {
+        "id": "advanced-techniques-beyond-the-basics",
+        "text": "Advanced Techniques: Beyond the Basics"
+      },
+      {
+        "id": "related-guides",
+        "text": "Related Guides"
+      },
+      {
+        "id": "frequently-asked-questions",
+        "text": "Frequently Asked Questions"
+      }
+    ],
+    "guides:en:sha-chi-guide": [
+      {
+        "id": "what-is-sha-chi-and-why-it-matters",
+        "text": "What Is Sha-Chi and Why It Matters"
+      },
+      {
+        "id": "how-sha-chi-functions-during-combat",
+        "text": "How Sha-Chi Functions During Combat"
+      },
+      {
+        "id": "the-breached-state-when-sha-chi-runs-dry",
+        "text": "The Breached State: When Sha-Chi Runs Dry"
+      },
+      {
+        "id": "sha-chi-management-strategies-and-recovery",
+        "text": "Sha-Chi Management Strategies and Recovery"
+      },
+      {
+        "id": "boss-fights-and-sha-chi-preservation",
+        "text": "Boss Fights and Sha-Chi Preservation"
+      },
+      {
+        "id": "frequently-asked-questions",
+        "text": "Frequently Asked Questions"
+      }
+    ],
+    "guides:en:tips-and-tricks": [
+      {
+        "id": "core-combat-principles-that-shape-every-encounter",
+        "text": "Core Combat Principles That Shape Every Encounter"
+      },
+      {
+        "id": "movement-parrying-and-dodging-essentials",
+        "text": "Movement, Parrying, and Dodging Essentials"
+      },
+      {
+        "id": "resource-management-and-sha-chi-economy",
+        "text": "Resource Management and Sha-Chi Economy"
+      },
+      {
+        "id": "boss-strategies-and-encounter-pacing",
+        "text": "Boss Strategies and Encounter Pacing"
+      },
+      {
+        "id": "progression-walkthrough-areas-shortcuts-and-the-66-days-system",
+        "text": "Progression Walkthrough: Areas, Shortcuts, and the 66 Days System"
+      },
+      {
+        "id": "external-reference-and-final-notes",
+        "text": "External Reference and Final Notes"
+      },
+      {
+        "id": "frequently-asked-questions",
+        "text": "Frequently Asked Questions"
+      }
+    ],
+    "weapons:en:all-weapons-list": [
+      {
+        "id": "weapon-arsenal-overview-in-phantom-blade-zero",
+        "text": "Weapon Arsenal Overview in Phantom Blade Zero"
+      },
+      {
+        "id": "primary-blades-by-weapon-family",
+        "text": "Primary Blades by Weapon Family"
+      },
+      {
+        "id": "phantom-edges-the-off-hand-layer",
+        "text": "Phantom Edges: The Off-Hand Layer"
+      },
+      {
+        "id": "acquisition-methods-and-where-to-find-each-blade",
+        "text": "Acquisition Methods and Where to Find Each Blade"
+      },
+      {
+        "id": "weapon-stats-comparison-at-a-glance",
+        "text": "Weapon Stats Comparison at a Glance"
+      },
+      {
+        "id": "best-weapons-by-playstyle",
+        "text": "Best Weapons by Playstyle"
+      },
+      {
+        "id": "frequently-asked-questions",
+        "text": "Frequently Asked Questions"
+      }
+    ],
+    "weapons:en:best-weapons": [
+      {
+        "id": "weapon-arsenal-overview",
+        "text": "Weapon Arsenal Overview"
+      },
+      {
+        "id": "top-s-tier-primary-blades",
+        "text": "Top S-Tier Primary Blades"
+      },
+      {
+        "id": "best-dual-wield-and-aggressive-picks",
+        "text": "Best Dual-Wield and Aggressive Picks"
+      },
+      {
+        "id": "strongest-exotic-and-heavy-weapons",
+        "text": "Strongest Exotic and Heavy Weapons"
+      },
+      {
+        "id": "weapon-matchups-by-playstyle",
+        "text": "Weapon Matchups by Playstyle"
+      },
+      {
+        "id": "frequently-asked-questions",
+        "text": "Frequently Asked Questions"
+      }
+    ],
+    "weapons:en:jagged-edge-greatsword": [
+      {
+        "id": "jagged-edge-greatsword-overview",
+        "text": "Jagged Edge Greatsword Overview"
+      },
+      {
+        "id": "how-to-unlock-the-jagged-edge-greatsword",
+        "text": "How to Unlock the Jagged Edge Greatsword"
+      },
+      {
+        "id": "jagged-edge-greatsword-moveset--combat-mechanics",
+        "text": "Jagged Edge Greatsword Moveset & Combat Mechanics"
+      },
+      {
+        "id": "best-build--stat-allocation-for-the-jagged-edge-greatsword",
+        "text": "Best Build & Stat Allocation for the Jagged Edge Greatsword"
+      },
+      {
+        "id": "boss-and-enemy-matchups-for-the-jagged-edge-greatsword",
+        "text": "Boss and Enemy Matchups for the Jagged Edge Greatsword"
+      },
+      {
+        "id": "frequently-asked-questions",
+        "text": "Frequently Asked Questions"
+      }
+    ],
+    "weapons:en:man-cutter-halberd": [
+      {
+        "id": "man-cutter-halberd-in-phantom-blade-zero-moveset-damage--best-builds",
+        "text": "Man-Cutter Halberd in Phantom Blade Zero: Moveset, Damage & Best Builds"
+      },
+      {
+        "id": "what-is-the-man-cutter",
+        "text": "What Is the Man-Cutter?"
+      },
+      {
+        "id": "moveset-breakdown",
+        "text": "Moveset Breakdown"
+      },
+      {
+        "id": "damage-profile-and-speed-tradeoffs",
+        "text": "Damage Profile and Speed Tradeoffs"
+      },
+      {
+        "id": "sha-chi-efficiency-and-management",
+        "text": "Sha-Chi Efficiency and Management"
+      },
+      {
+        "id": "best-phantom-edge-pairings",
+        "text": "Best Phantom Edge Pairings"
+      },
+      {
+        "id": "which-bosses-does-the-man-cutter-excel-against",
+        "text": "Which Bosses Does the Man-Cutter Excel Against?"
+      },
+      {
+        "id": "tips-for-landing-charged-attacks-consistently",
+        "text": "Tips for Landing Charged Attacks Consistently"
+      },
+      {
+        "id": "best-builds-for-the-man-cutter",
+        "text": "Best Builds for the Man-Cutter"
+      },
+      {
+        "id": "faq",
+        "text": "FAQ"
+      }
+    ],
+    "weapons:en:sanguine-longsword": [
+      {
+        "id": "sanguine-longsword-overview-and-default-loadout",
+        "text": "Sanguine Longsword Overview and Default Loadout"
+      },
+      {
+        "id": "sanguine-tumbling-attacks-and-breached-state-synergy",
+        "text": "Sanguine Tumbling Attacks and Breached State Synergy"
+      },
+      {
+        "id": "phantom-edge-variations-sanguine-twin-and-reach",
+        "text": "Phantom Edge Variations: Sanguine Twin and Reach"
+      },
+      {
+        "id": "how-to-build-around-the-sanguine-longsword",
+        "text": "How to Build Around the Sanguine Longsword"
+      },
+      {
+        "id": "frequently-asked-questions",
+        "text": "Frequently Asked Questions"
+      }
+    ],
+    "weapons:en:seamless-death-chakram": [
+      {
+        "id": "seamless-death-chakram-at-a-glance",
+        "text": "Seamless Death Chakram at a Glance"
+      },
+      {
+        "id": "how-to-unlock-and-upgrade-the-seamless-death-chakram",
+        "text": "How to Unlock and Upgrade the Seamless Death Chakram"
+      },
+      {
+        "id": "combat-mechanics-and-signature-moves",
+        "text": "Combat Mechanics and Signature Moves"
+      },
+      {
+        "id": "stat-profile-and-where-it-sits-in-the-roster",
+        "text": "Stat Profile and Where It Sits in the Roster"
+      },
+      {
+        "id": "best-matchups-and-situational-play",
+        "text": "Best Matchups and Situational Play"
+      },
+      {
+        "id": "frequently-asked-questions",
+        "text": "Frequently Asked Questions"
+      }
+    ],
+    "weapons:en:soft-snake-sword": [
+      {
+        "id": "what-makes-the-soft-snake-sword-unique",
+        "text": "What Makes the Soft Snake Sword Unique"
+      },
+      {
+        "id": "flexible-blade-mechanics-explained",
+        "text": "Flexible Blade Mechanics Explained"
+      },
+      {
+        "id": "signature-combo-strings",
+        "text": "Signature Combo Strings"
+      },
+      {
+        "id": "pros-and-cons",
+        "text": "Pros and Cons"
+      },
+      {
+        "id": "best-enemy-types-to-use-against",
+        "text": "Best Enemy Types to Use Against"
+      },
+      {
+        "id": "best-phantom-edge-synergies",
+        "text": "Best Phantom Edge Synergies"
+      },
+      {
+        "id": "tips-for-mastering-its-fluid-attacks",
+        "text": "Tips for Mastering Its Fluid Attacks"
+      },
+      {
+        "id": "faq",
+        "text": "FAQ"
+      }
+    ],
+    "weapons:en:weapon-tier-list": [
+      {
+        "id": "how-phantom-blade-zeros-weapon-system-works",
+        "text": "How Phantom Blade Zero's Weapon System Works"
+      },
+      {
+        "id": "s-tier-weapons-the-best-of-the-best",
+        "text": "S-Tier Weapons: The Best of the Best"
+      },
+      {
+        "id": "a-tier-weapons-strong-and-reliable",
+        "text": "A-Tier Weapons: Strong and Reliable"
+      },
+      {
+        "id": "b-tier-and-c-tier-situational-weapons-worth-knowing",
+        "text": "B-Tier and C-Tier: Situational Weapons Worth Knowing"
+      },
+      {
+        "id": "best-builds-by-playstyle",
+        "text": "Best Builds by Playstyle"
+      },
+      {
+        "id": "frequently-asked-questions",
+        "text": "Frequently Asked Questions"
+      }
+    ],
+    "phantom-edges:en:all-phantom-edges": [
+      {
+        "id": "what-are-phantom-edges-in-phantom-blade-zero",
+        "text": "What Are Phantom Edges in Phantom Blade Zero"
+      },
+      {
+        "id": "every-phantom-edge-in-the-game",
+        "text": "Every Phantom Edge in the Game"
+      },
+      {
+        "id": "how-to-unlock-boss-drop-phantom-edges",
+        "text": "How to Unlock Boss-Drop Phantom Edges"
+      },
+      {
+        "id": "combat-strategy-with-limited-use-edges",
+        "text": "Combat Strategy With Limited-Use Edges"
+      },
+      {
+        "id": "phantom-edges-vs-main-weapons",
+        "text": "Phantom Edges vs Main Weapons"
+      },
+      {
+        "id": "data-tables-charge-counts-and-damage",
+        "text": "Data Tables: Charge Counts and Damage"
+      },
+      {
+        "id": "frequently-asked-questions",
+        "text": "Frequently Asked Questions"
+      }
+    ],
+    "phantom-edges:en:bashpole-warhammer": [
+      {
+        "id": "what-the-bashpole-warhammer-actually-is",
+        "text": "What the Bashpole Warhammer Actually Is"
+      },
+      {
+        "id": "core-stats-scaling-and-infusion-options",
+        "text": "Core Stats, Scaling, and Infusion Options"
+      },
+      {
+        "id": "moveset-combos-and-recovery-windows",
+        "text": "Moveset, Combos, and Recovery Windows"
+      },
+      {
+        "id": "build-synergies-and-playstyle-choices",
+        "text": "Build Synergies and Playstyle Choices"
+      },
+      {
+        "id": "matchup-strategy-against-common-weapons",
+        "text": "Matchup Strategy Against Common Weapons"
+      },
+      {
+        "id": "frequently-asked-questions",
+        "text": "Frequently Asked Questions"
+      }
+    ],
+    "phantom-edges:en:best-phantom-edges": [
+      {
+        "id": "what-are-phantom-edges-in-phantom-blade-zero",
+        "text": "What Are Phantom Edges in Phantom Blade Zero?"
+      },
+      {
+        "id": "top-tier-phantom-edges-ranked-for-2026",
+        "text": "Top Tier Phantom Edges Ranked for 2026"
+      },
+      {
+        "id": "phantom-edges-by-playstyle",
+        "text": "Phantom Edges by Playstyle"
+      },
+      {
+        "id": "how-to-unlock-the-best-phantom-edges",
+        "text": "How to Unlock the Best Phantom Edges"
+      },
+      {
+        "id": "combat-tips-for-using-phantom-edges",
+        "text": "Combat Tips for Using Phantom Edges"
+      },
+      {
+        "id": "frequently-asked-questions",
+        "text": "Frequently Asked Questions"
+      }
+    ],
+    "phantom-edges:en:bow-and-arrow": [
+      {
+        "id": "what-are-phantom-edges",
+        "text": "What Are Phantom Edges?"
+      },
+      {
+        "id": "bow-mechanics-aiming-draw-and-release",
+        "text": "Bow Mechanics: Aiming, Draw, and Release"
+      },
+      {
+        "id": "ammo-management-every-shot-counts",
+        "text": "Ammo Management: Every Shot Counts"
+      },
+      {
+        "id": "ranged-vs-melee-choosing-your-engagement",
+        "text": "Ranged vs. Melee: Choosing Your Engagement"
+      },
+      {
+        "id": "comboing-bow-shots-with-melee-attacks",
+        "text": "Comboing Bow Shots with Melee Attacks"
+      },
+      {
+        "id": "best-situations-for-ranged-combat",
+        "text": "Best Situations for Ranged Combat"
+      },
+      {
+        "id": "recommended-pairings-with-melee-weapons",
+        "text": "Recommended Pairings with Melee Weapons"
+      },
+      {
+        "id": "faq",
+        "text": "FAQ"
+      }
+    ],
+    "phantom-edges:en:flaming-mane-lion-mask": [
+      {
+        "id": "overview-of-the-flaming-mane-lion-mask",
+        "text": "Overview of the Flaming Mane Lion Mask"
+      },
+      {
+        "id": "how-to-obtain-the-flaming-mane-lion-mask",
+        "text": "How to Obtain the Flaming Mane Lion Mask"
+      },
+      {
+        "id": "stats-set-bonuses-and-combat-mechanics",
+        "text": "Stats, Set Bonuses, and Combat Mechanics"
+      },
+      {
+        "id": "best-builds-featuring-the-flaming-mane-lion-mask",
+        "text": "Best Builds Featuring the Flaming Mane Lion Mask"
+      },
+      {
+        "id": "frequently-asked-questions",
+        "text": "Frequently Asked Questions"
+      }
+    ],
+    "phantom-edges:en:flaming-mane-mask": [
+      {
+        "id": "flaming-mane-mask-phantom-edge-in-phantom-blade-zero-fire-damage--abilities",
+        "text": "Flaming Mane Mask Phantom Edge in Phantom Blade Zero: Fire Damage & Abilities"
+      },
+      {
+        "id": "what-the-flaming-mane-mask-does",
+        "text": "What the Flaming Mane Mask Does"
+      },
+      {
+        "id": "burn-status-effect-how-fire-damage-works",
+        "text": "Burn Status Effect: How Fire Damage Works"
+      },
+      {
+        "id": "sha-chi-cost-and-cooldown-management",
+        "text": "Sha-Chi Cost and Cooldown Management"
+      },
+      {
+        "id": "best-enemies-to-use-fire-against",
+        "text": "Best Enemies to Use Fire Against"
+      },
+      {
+        "id": "combo-potential-weaving-fire-into-melee",
+        "text": "Combo Potential: Weaving Fire into Melee"
+      },
+      {
+        "id": "weapon-synergies-for-burn-focused-builds",
+        "text": "Weapon Synergies for Burn-Focused Builds"
+      },
+      {
+        "id": "building-a-burn-focused-playstyle",
+        "text": "Building a Burn-Focused Playstyle"
+      },
+      {
+        "id": "flaming-mane-in-boss-encounters",
+        "text": "Flaming Mane in Boss Encounters"
+      },
+      {
+        "id": "faq",
+        "text": "FAQ"
+      }
+    ],
+    "phantom-edges:en:phantom-edges-combos": [
+      {
+        "id": "how-phantom-edges-work-as-sub-weapons",
+        "text": "How Phantom Edges Work as Sub-Weapons"
+      },
+      {
+        "id": "weapon-switching-mechanics",
+        "text": "Weapon Switching Mechanics"
+      },
+      {
+        "id": "combo-strings-blending-main-weapon-and-phantom-edge-attacks",
+        "text": "Combo Strings: Blending Main Weapon and Phantom Edge Attacks"
+      },
+      {
+        "id": "best-weapon-pairings",
+        "text": "Best Weapon Pairings"
+      },
+      {
+        "id": "timing-phantom-edge-activation-for-maximum-damage",
+        "text": "Timing Phantom Edge Activation for Maximum Damage"
+      },
+      {
+        "id": "sha-chi-management-across-weapon-swaps",
+        "text": "Sha-Chi Management Across Weapon Swaps"
+      },
+      {
+        "id": "advanced-combo-techniques",
+        "text": "Advanced Combo Techniques"
+      },
+      {
+        "id": "faq",
+        "text": "FAQ"
+      }
+    ],
+    "phantom-edges:en:phantom-edges-tier-list": [
+      {
+        "id": "understanding-phantom-edges-and-why-the-tier-list-matters",
+        "text": "Understanding Phantom Edges and Why the Tier List Matters"
+      },
+      {
+        "id": "phantom-edges-tier-list-all-weapons-ranked",
+        "text": "Phantom Edges Tier List: All Weapons Ranked"
+      },
+      {
+        "id": "best-phantom-edges-by-combat-situation",
+        "text": "Best Phantom Edges by Combat Situation"
+      },
+      {
+        "id": "how-to-unlock-every-phantom-edge",
+        "text": "How to Unlock Every Phantom Edge"
+      },
+      {
+        "id": "phantom-edges-loadout-tips-and-common-mistakes",
+        "text": "Phantom Edges Loadout Tips and Common Mistakes"
+      },
+      {
+        "id": "frequently-asked-questions",
+        "text": "Frequently Asked Questions"
+      }
+    ],
+    "boss-guide:en:all-bosses-list": [
+      {
+        "id": "every-boss-fight-in-phantom-blade-zero",
+        "text": "Every Boss Fight in Phantom Blade Zero"
+      },
+      {
+        "id": "act-1-boss-encounters-and-where-to-find-them",
+        "text": "Act 1 Boss Encounters and Where to Find Them"
+      },
+      {
+        "id": "act-2-boss-encounters-and-hidden-fights",
+        "text": "Act 2 Boss Encounters and Hidden Fights"
+      },
+      {
+        "id": "late-game-bosses-and-optional-skirmishes",
+        "text": "Late-Game Bosses and Optional Skirmishes"
+      },
+      {
+        "id": "boss-weaknesses-rewards-and-recommended-builds",
+        "text": "Boss Weaknesses, Rewards, and Recommended Builds"
+      },
+      {
+        "id": "frequently-asked-questions",
+        "text": "Frequently Asked Questions"
+      }
+    ],
+    "boss-guide:en:boss-guide": [
+      {
+        "id": "boss-progression-overview",
+        "text": "Boss Progression Overview"
+      },
+      {
+        "id": "early-game-bosses-coppermaul-and-red-wraith",
+        "text": "Early Game Bosses: Coppermaul and Red Wraith"
+      },
+      {
+        "id": "mid-game-bosses-seven-stars-and-tiesha",
+        "text": "Mid Game Bosses: Seven Stars and TieSha"
+      },
+      {
+        "id": "late-game-bosses-huangxing-and-commander-cleave",
+        "text": "Late Game Bosses: Huangxing and Commander Cleave"
+      },
+      {
+        "id": "combat-fundamentals-for-boss-fights",
+        "text": "Combat Fundamentals for Boss Fights"
+      },
+      {
+        "id": "frequently-asked-questions",
+        "text": "Frequently Asked Questions"
+      }
+    ],
+    "boss-guide:en:chief-disciple-of-seven-stars": [
+      {
+        "id": "boss-overview-and-encounter-context",
+        "text": "Boss Overview and Encounter Context"
+      },
+      {
+        "id": "attack-patterns-and-phase-breakdown",
+        "text": "Attack Patterns and Phase Breakdown"
+      },
+      {
+        "id": "recommended-build-and-gear-loadout",
+        "text": "Recommended Build and Gear Loadout"
+      },
+      {
+        "id": "combat-strategy-and-execution",
+        "text": "Combat Strategy and Execution"
+      },
+      {
+        "id": "rewards-repeat-attempts-and-post-fight-tips",
+        "text": "Rewards, Repeat Attempts, and Post-Fight Tips"
+      },
+      {
+        "id": "frequently-asked-questions",
+        "text": "Frequently Asked Questions"
+      }
+    ],
+    "boss-guide:en:coppermaul-boss-fight": [
+      {
+        "id": "coppermaul-boss-overview",
+        "text": "Coppermaul Boss Overview"
+      },
+      {
+        "id": "attack-patterns-and-moveset-breakdown",
+        "text": "Attack Patterns and Moveset Breakdown"
+      },
+      {
+        "id": "recommended-loadout-and-stats",
+        "text": "Recommended Loadout and Stats"
+      },
+      {
+        "id": "phase-by-phase-strategy",
+        "text": "Phase-by-Phase Strategy"
+      },
+      {
+        "id": "frequently-asked-questions",
+        "text": "Frequently Asked Questions"
+      }
+    ],
+    "boss-guide:en:red-wraith-boss-fight": [
+      {
+        "id": "red-wraith-encounter-overview",
+        "text": "Red Wraith Encounter Overview"
+      },
+      {
+        "id": "attack-patterns-and-move-telegraphs",
+        "text": "Attack Patterns and Move Telegraphs"
+      },
+      {
+        "id": "defensive-tools-and-when-to-use-them",
+        "text": "Defensive Tools and When to Use Them"
+      },
+      {
+        "id": "phase-breakdown-and-combat-strategy",
+        "text": "Phase Breakdown and Combat Strategy"
+      },
+      {
+        "id": "rewards-lore-and-skip-consequences",
+        "text": "Rewards, Lore, and Skip Consequences"
+      },
+      {
+        "id": "recommended-build-and-loadout",
+        "text": "Recommended Build and Loadout"
+      },
+      {
+        "id": "frequently-asked-questions",
+        "text": "Frequently Asked Questions"
+      }
+    ],
+    "boss-guide:en:tiesha-the-frenzy-boss": [
+      {
+        "id": "who-is-tiesha-the-frenzy",
+        "text": "Who Is TieSha the Frenzy?"
+      },
+      {
+        "id": "tiesha-the-frenzy-attack-pattern-breakdown",
+        "text": "TieSha the Frenzy Attack Pattern Breakdown"
+      },
+      {
+        "id": "required-loadout-and-sha-chi-setup",
+        "text": "Required Loadout and Sha-Chi Setup"
+      },
+      {
+        "id": "step-by-step-strategy-to-defeat-tiesha-the-frenzy",
+        "text": "Step-by-Step Strategy to Defeat TieSha the Frenzy"
+      },
+      {
+        "id": "common-mistakes-and-recovery-tips",
+        "text": "Common Mistakes and Recovery Tips"
+      },
+      {
+        "id": "tiesha-the-frenzy-boss-rewards",
+        "text": "TieSha the Frenzy Boss Rewards"
+      },
+      {
+        "id": "frequently-asked-questions",
+        "text": "Frequently Asked Questions"
+      }
+    ],
+    "boss-guide:en:wan-jun-coppermaul-strategy": [
+      {
+        "id": "who-is-wan-jun-aka-coppermaul",
+        "text": "Who Is Wan Jun, Aka Coppermaul"
+      },
+      {
+        "id": "reading-wan-juns-moveset",
+        "text": "Reading Wan Jun's Moveset"
+      },
+      {
+        "id": "phase-breakdown-and-state-transitions",
+        "text": "Phase Breakdown and State Transitions"
+      },
+      {
+        "id": "recommended-builds-and-strategy-routes",
+        "text": "Recommended Builds and Strategy Routes"
+      },
+      {
+        "id": "rewards-and-what-to-do-after-the-kill",
+        "text": "Rewards and What to Do After the Kill"
+      }
+    ],
+    "endings:en:all-endings": [
+      {
+        "id": "spoiler-warning",
+        "text": "Spoiler Warning"
+      },
+      {
+        "id": "understanding-the-eight-endings-structure",
+        "text": "Understanding The Eight Endings Structure"
+      },
+      {
+        "id": "every-conclusion-ranked-by-difficulty",
+        "text": "Every Conclusion Ranked By Difficulty"
+      },
+      {
+        "id": "the-red-wraith-decision-branch",
+        "text": "The Red Wraith Decision Branch"
+      },
+      {
+        "id": "side-quests-that-shape-the-endings",
+        "text": "Side Quests That Shape The Endings"
+      },
+      {
+        "id": "new-game-plus-endings-and-replay-strategy",
+        "text": "New Game Plus Endings And Replay Strategy"
+      },
+      {
+        "id": "frequently-asked-questions",
+        "text": "Frequently Asked Questions"
+      }
+    ],
+    "endings:en:best-ending": [
+      {
+        "id": "understanding-phantom-blade-zeros-8-endings",
+        "text": "Understanding Phantom Blade Zero's 8 Endings"
+      },
+      {
+        "id": "every-phantom-blade-zero-ending-and-how-to-reach-it",
+        "text": "Every Phantom Blade Zero Ending and How to Reach It"
+      },
+      {
+        "id": "the-red-wraith-decision-and-ending-impact",
+        "text": "The Red Wraith Decision and Ending Impact"
+      },
+      {
+        "id": "phantom-blade-zero-ng-endings-and-carryover-rules",
+        "text": "Phantom Blade Zero NG+ Endings and Carryover Rules"
+      },
+      {
+        "id": "frequently-asked-questions",
+        "text": "Frequently Asked Questions"
+      }
+    ],
+    "endings:en:ending-conditions": [
+      {
+        "id": "the-eight-finale-routes-at-a-glance",
+        "text": "The Eight Finale Routes at a Glance"
+      },
+      {
+        "id": "how-ending-conditions-are-calculated",
+        "text": "How Ending Conditions Are Calculated"
+      },
+      {
+        "id": "critical-decision-points-you-cannot-undo",
+        "text": "Critical Decision Points You Cannot Undo"
+      },
+      {
+        "id": "ng-cycles-and-exclusive-routes",
+        "text": "NG+ Cycles and Exclusive Routes"
+      },
+      {
+        "id": "strategy-for-unlocking-all-eight-endings",
+        "text": "Strategy for Unlocking All Eight Endings"
+      },
+      {
+        "id": "frequently-asked-questions",
+        "text": "Frequently Asked Questions"
+      }
+    ],
+    "endings:en:how-to-get-all-endings": [
+      {
+        "id": "how-many-endings-does-phantom-blade-zero-have",
+        "text": "How Many Endings Does Phantom Blade Zero Have?"
+      },
+      {
+        "id": "the-major-choice-branches-that-decide-endings",
+        "text": "The Major Choice Branches That Decide Endings"
+      },
+      {
+        "id": "side-quest-completion-routes-and-missable-windows",
+        "text": "Side Quest Completion Routes and Missable Windows"
+      },
+      {
+        "id": "how-to-unlock-the-secret-and-hidden-endings",
+        "text": "How to Unlock the Secret and Hidden Endings"
+      },
+      {
+        "id": "ng-endings-what-changes-and-what-stays",
+        "text": "NG+ Endings: What Changes and What Stays"
+      },
+      {
+        "id": "frequently-asked-questions",
+        "text": "Frequently Asked Questions"
+      }
+    ],
+    "endings:en:side-quests-affect-endings": [
+      {
+        "id": "the-endings-architecture-eight-routes-one-story",
+        "text": "The Endings Architecture: Eight Routes, One Story"
+      },
+      {
+        "id": "side-quests-that-change-the-ending",
+        "text": "Side Quests That Change the Ending"
+      },
+      {
+        "id": "ng-endings-and-alternative-paths",
+        "text": "NG+ Endings and Alternative Paths"
+      },
+      {
+        "id": "planning-a-route-through-all-endings",
+        "text": "Planning a Route Through All Endings"
+      },
+      {
+        "id": "frequently-asked-questions",
+        "text": "Frequently Asked Questions"
+      }
+    ],
+    "endings:en:true-ending": [
+      {
+        "id": "understanding-the-eight-endings-in-phantom-blade-zero",
+        "text": "Understanding the Eight Endings in Phantom Blade Zero"
+      },
+      {
+        "id": "the-red-wraith-decision-the-most-important-story-branch",
+        "text": "The Red Wraith Decision: The Most Important Story Branch"
+      },
+      {
+        "id": "side-quest-requirements-for-the-true-ending",
+        "text": "Side Quest Requirements for the True Ending"
+      },
+      {
+        "id": "ng-endings-and-alternative-paths",
+        "text": "NG+ Endings and Alternative Paths"
+      },
+      {
+        "id": "step-by-step-route-to-the-true-ending",
+        "text": "Step-by-Step Route to the True Ending"
+      },
+      {
+        "id": "frequently-asked-questions",
+        "text": "Frequently Asked Questions"
+      }
+    ],
+    "combat:en:breached-state": [
+      {
+        "id": "what-is-the-breached-state-in-phantom-blade-zero",
+        "text": "What Is The Breached State In Phantom Blade Zero"
+      },
+      {
+        "id": "how-the-breached-state-changes-combat",
+        "text": "How The Breached State Changes Combat"
+      },
+      {
+        "id": "enemies-that-force-the-breached-state",
+        "text": "Enemies That Force The Breached State"
+      },
+      {
+        "id": "surviving-the-breached-state-combat-strategies",
+        "text": "Surviving The Breached State: Combat Strategies"
+      },
+      {
+        "id": "breached-state-mistakes-to-avoid",
+        "text": "Breached State Mistakes To Avoid"
+      },
+      {
+        "id": "frequently-asked-questions",
+        "text": "Frequently Asked Questions"
+      }
+    ],
+    "combat:en:brutal-moves": [
+      {
+        "id": "what-are-brutal-moves-in-phantom-blade-zero",
+        "text": "What Are Brutal Moves in Phantom Blade Zero"
+      },
+      {
+        "id": "how-the-brutal-moves-system-works",
+        "text": "How the Brutal Moves System Works"
+      },
+      {
+        "id": "brutal-moves-by-weapon-type",
+        "text": "Brutal Moves by Weapon Type"
+      },
+      {
+        "id": "boss-and-encounter-strategies-for-brutal-moves",
+        "text": "Boss and Encounter Strategies for Brutal Moves"
+      },
+      {
+        "id": "frequently-asked-questions",
+        "text": "Frequently Asked Questions"
+      }
+    ],
+    "combat:en:combat-mechanics": [
+      {
+        "id": "understanding-the-core-combat-loop-in-phantom-blade-zero",
+        "text": "Understanding the Core Combat Loop in Phantom Blade Zero"
+      },
+      {
+        "id": "defense-triangle-blocking-parrying-and-dodging",
+        "text": "Defense Triangle: Blocking, Parrying, and Dodging"
+      },
+      {
+        "id": "reading-enemy-attack-colors-and-patterns",
+        "text": "Reading Enemy Attack Colors and Patterns"
+      },
+      {
+        "id": "sha-chi-meter-management-and-resource-cycling",
+        "text": "Sha-Chi Meter Management and Resource Cycling"
+      },
+      {
+        "id": "ghostep-repositioning-and-finisher-triggers",
+        "text": "Ghostep Repositioning and Finisher Triggers"
+      },
+      {
+        "id": "frequently-asked-questions",
+        "text": "Frequently Asked Questions"
+      }
+    ],
+    "combat:en:dodge-mechanics": [
+      {
+        "id": "dodge-mechanics-in-phantom-blade-zero-i-frames-dodge-types-and-when-to-dodge",
+        "text": "Dodge Mechanics in Phantom Blade Zero: I-Frames, Dodge Types and When to Dodge"
+      }
+    ],
+    "combat:en:ghostep-counter-attack": [
+      {
+        "id": "what-is-the-ghostep-counter-attack",
+        "text": "What Is the Ghostep Counter Attack"
+      },
+      {
+        "id": "brutal-move-triggers-and-perfect-parry",
+        "text": "Brutal Move Triggers and Perfect Parry"
+      },
+      {
+        "id": "killer-move-triggers-and-perfect-dodge",
+        "text": "Killer Move Triggers and Perfect Dodge"
+      },
+      {
+        "id": "combo-chains-after-a-successful-ghostep",
+        "text": "Combo Chains After a Successful Ghostep"
+      },
+      {
+        "id": "advanced-ghostep-strategy-and-timing-windows",
+        "text": "Advanced Ghostep Strategy and Timing Windows"
+      },
+      {
+        "id": "frequently-asked-questions",
+        "text": "Frequently Asked Questions"
+      }
+    ],
+    "combat:en:parry-system": [
+      {
+        "id": "how-the-parry-system-works",
+        "text": "How the Parry System Works"
+      },
+      {
+        "id": "parry-timing-windows-and-frame-data",
+        "text": "Parry Timing Windows and Frame Data"
+      },
+      {
+        "id": "brutal-moves-and-forced-parries",
+        "text": "Brutal Moves and Forced Parries"
+      },
+      {
+        "id": "sha-chi-management-and-ghostep-triggers",
+        "text": "Sha-Chi Management and Ghostep Triggers"
+      },
+      {
+        "id": "advanced-parry-strategies-for-boss-fights",
+        "text": "Advanced Parry Strategies for Boss Fights"
+      },
+      {
+        "id": "common-parry-mistakes-to-avoid",
+        "text": "Common Parry Mistakes to Avoid"
+      }
+    ],
+    "combat:en:sha-chi-meter-explained": [
+      {
+        "id": "what-the-sha-chi-meter-actually-does-in-phantom-blade-zero",
+        "text": "What the Sha-Chi Meter Actually Does in Phantom Blade Zero"
+      },
+      {
+        "id": "how-sha-chi-fuels-offense-and-defense",
+        "text": "How Sha-Chi Fuels Offense and Defense"
+      },
+      {
+        "id": "the-breached-state-when-sha-chi-hits-zero",
+        "text": "The Breached State When Sha-Chi Hits Zero"
+      },
+      {
+        "id": "managing-sha-chi-across-a-real-fight",
+        "text": "Managing Sha-Chi Across a Real Fight"
+      },
+      {
+        "id": "frequently-asked-questions",
+        "text": "Frequently Asked Questions"
+      }
+    ],
+    "tier-list:en:a-tier-weapons": [
+      {
+        "id": "what-defines-an-a-tier-weapon-in-phantom-blade-zero",
+        "text": "What Defines an A Tier Weapon in Phantom Blade Zero"
+      },
+      {
+        "id": "the-full-a-tier-weapons-ranked",
+        "text": "The Full A Tier Weapons Ranked"
+      },
+      {
+        "id": "a-tier-weapon-stats-comparison",
+        "text": "A Tier Weapon Stats Comparison"
+      },
+      {
+        "id": "best-builds-and-pairings-for-a-tier-weapons",
+        "text": "Best Builds and Pairings for A Tier Weapons"
+      },
+      {
+        "id": "how-to-farm-and-upgrade-a-tier-weapons",
+        "text": "How to Farm and Upgrade A Tier Weapons"
+      },
+      {
+        "id": "frequently-asked-questions",
+        "text": "Frequently Asked Questions"
+      }
+    ],
+    "tier-list:en:b-tier-weapons": [
+      {
+        "id": "what-defines-b-tier-weapons-in-phantom-blade-zero",
+        "text": "What Defines B Tier Weapons in Phantom Blade Zero"
+      },
+      {
+        "id": "complete-b-tier-weapons-ranked-list",
+        "text": "Complete B Tier Weapons Ranked List"
+      },
+      {
+        "id": "weapon-archetypes-in-the-b-tier-pool",
+        "text": "Weapon Archetypes in the B Tier Pool"
+      },
+      {
+        "id": "upgrading-and-forging-b-tier-weapons",
+        "text": "Upgrading and Forging B Tier Weapons"
+      },
+      {
+        "id": "when-b-tier-weapons-outperform-s-tier-picks",
+        "text": "When B Tier Weapons Outperform S Tier Picks"
+      },
+      {
+        "id": "frequently-asked-questions",
+        "text": "Frequently Asked Questions"
+      }
+    ],
+    "tier-list:en:best-build-tier-list": [
+      {
+        "id": "weapon-archetype-tier-rankings-overview",
+        "text": "Weapon Archetype Tier Rankings Overview"
+      },
+      {
+        "id": "s-and-a-tier-weapons--the-meta-picks",
+        "text": "S and A Tier Weapons — The Meta Picks"
+      },
+      {
+        "id": "b-and-c-tier-weapons--situational-powerhouses",
+        "text": "B and C Tier Weapons — Situational Powerhouses"
+      },
+      {
+        "id": "best-build-loadouts-by-playstyle",
+        "text": "Best Build Loadouts by Playstyle"
+      },
+      {
+        "id": "difficulty-mode-and-tier-list-shifts",
+        "text": "Difficulty Mode and Tier List Shifts"
+      },
+      {
+        "id": "frequently-asked-questions",
+        "text": "Frequently Asked Questions"
+      }
+    ],
+    "tier-list:en:phantom-edges-tier-list": [
+      {
+        "id": "what-are-phantom-edges-and-why-they-matter",
+        "text": "What Are Phantom Edges and Why They Matter"
+      },
+      {
+        "id": "how-phantom-edges-work-in-combat",
+        "text": "How Phantom Edges Work in Combat"
+      },
+      {
+        "id": "the-full-phantom-edges-tier-list",
+        "text": "The Full Phantom Edges Tier List"
+      },
+      {
+        "id": "boss-drop-phantom-edges-and-unlock-sources",
+        "text": "Boss Drop Phantom Edges and Unlock Sources"
+      },
+      {
+        "id": "building-your-loadout-around-a-phantom-edge",
+        "text": "Building Your Loadout Around a Phantom Edge"
+      },
+      {
+        "id": "frequently-asked-questions",
+        "text": "Frequently Asked Questions"
+      }
+    ],
+    "tier-list:en:s-tier-weapons": [
+      {
+        "id": "what-defines-an-s-tier-weapon-in-phantom-blade-zero",
+        "text": "What Defines an S Tier Weapon in Phantom Blade Zero"
+      },
+      {
+        "id": "the-complete-s-tier-weapons-ranking",
+        "text": "The Complete S Tier Weapons Ranking"
+      },
+      {
+        "id": "weapon-archetype-breakdown-and-playstyle-fits",
+        "text": "Weapon Archetype Breakdown and Playstyle Fits"
+      },
+      {
+        "id": "how-to-unlock-and-upgrade-s-tier-weapons",
+        "text": "How to Unlock and Upgrade S Tier Weapons"
+      },
+      {
+        "id": "matching-s-tier-weapons-to-your-combat-style",
+        "text": "Matching S Tier Weapons to Your Combat Style"
+      },
+      {
+        "id": "frequently-asked-questions",
+        "text": "Frequently Asked Questions"
+      }
+    ],
+    "lore:en:66-days-lore": [
+      {
+        "id": "the-origins-of-the-66-day-cycle-in-phantom-blade-zero",
+        "text": "The Origins of the 66-Day Cycle in Phantom Blade Zero"
+      },
+      {
+        "id": "mythological-foundations-of-the-phantom-world",
+        "text": "Mythological Foundations of the Phantom World"
+      },
+      {
+        "id": "cultural-roots-and-cross-genre-influences",
+        "text": "Cultural Roots and Cross-Genre Influences"
+      },
+      {
+        "id": "story-significance-and-character-connections",
+        "text": "Story Significance and Character Connections"
+      },
+      {
+        "id": "player-theories-and-unresolved-mysteries",
+        "text": "Player Theories and Unresolved Mysteries"
+      },
+      {
+        "id": "frequently-asked-questions",
+        "text": "Frequently Asked Questions"
+      }
+    ],
+    "lore:en:kungfupunk-world": [
+      {
+        "id": "the-origin-of-kungfupunk-as-a-coined-art-style",
+        "text": "The Origin of Kungfupunk as a Coined Art Style"
+      },
+      {
+        "id": "the-three-pillars-of-the-kungfupunk-aesthetic",
+        "text": "The Three Pillars of the Kungfupunk Aesthetic"
+      },
+      {
+        "id": "major-factions-and-regions-inside-the-kungfupunk-world",
+        "text": "Major Factions and Regions Inside the Kungfupunk World"
+      },
+      {
+        "id": "how-the-kungfupunk-world-shapes-combat-and-progression",
+        "text": "How the Kungfupunk World Shapes Combat and Progression"
+      },
+      {
+        "id": "cultural-references-and-external-influences-in-the-kungfupunk-world",
+        "text": "Cultural References and External Influences in the Kungfupunk World"
+      }
+    ],
+    "lore:en:lore-guide": [
+      {
+        "id": "the-phantom-world-setting-and-wuxia-foundation",
+        "text": "The Phantom World Setting and Wuxia Foundation"
+      },
+      {
+        "id": "factions-sects-and-power-structures",
+        "text": "Factions, Sects, and Power Structures"
+      },
+      {
+        "id": "cultural-roots-and-regional-identity",
+        "text": "Cultural Roots and Regional Identity"
+      },
+      {
+        "id": "key-historical-events-and-the-lore-timeline",
+        "text": "Key Historical Events and the Lore Timeline"
+      },
+      {
+        "id": "how-lore-connects-to-combat-and-exploration",
+        "text": "How Lore Connects to Combat and Exploration"
+      },
+      {
+        "id": "frequently-asked-questions",
+        "text": "Frequently Asked Questions"
+      }
+    ],
+    "lore:en:story-explained": [
+      {
+        "id": "a-dark-wuxia-universe-and-the-world-of-phantom-blade-zero",
+        "text": "A Dark Wuxia Universe and the World of Phantom Blade Zero"
+      },
+      {
+        "id": "the-protagonist-the-soul-and-his-motley-allies",
+        "text": "The Protagonist: The Soul and His Motley Allies"
+      },
+      {
+        "id": "the-three-way-war-for-chinas-soul",
+        "text": "The Three-Way War for China's Soul"
+      },
+      {
+        "id": "story-acts-and-major-plot-beats",
+        "text": "Story Acts and Major Plot Beats"
+      },
+      {
+        "id": "how-to-experience-the-full-lore",
+        "text": "How to Experience the Full Lore"
+      },
+      {
+        "id": "frequently-asked-questions",
+        "text": "Frequently Asked Questions"
+      }
+    ],
+    "lore:en:the-order-organization": [
+      {
+        "id": "the-order-organization-at-a-glance",
+        "text": "The Order Organization at a Glance"
+      },
+      {
+        "id": "founding-history-and-origins-of-the-order",
+        "text": "Founding History and Origins of The Order"
+      },
+      {
+        "id": "hierarchy-ranks-and-key-members",
+        "text": "Hierarchy, Ranks, and Key Members"
+      },
+      {
+        "id": "the-orders-role-in-combat-story-and-player-choice",
+        "text": "The Order's Role in Combat, Story, and Player Choice"
+      },
+      {
+        "id": "frequently-asked-questions",
+        "text": "Frequently Asked Questions"
+      }
+    ],
+    "difficulty:en:difficulty-modes-explained": [
+      {
+        "id": "all-four-difficulty-modes-at-a-glance",
+        "text": "All Four Difficulty Modes at a Glance"
+      },
+      {
+        "id": "normal-mode--the-default-campaign-feel",
+        "text": "Normal Mode — The Default Campaign Feel"
+      },
+      {
+        "id": "hard-mode--tighter-windows-and-smarter-enemies",
+        "text": "Hard Mode — Tighter Windows and Smarter Enemies"
+      },
+      {
+        "id": "hellwalker--the-adaptive-ai-that-fights-back-smarter",
+        "text": "Hellwalker — The Adaptive AI That Fights Back Smarter"
+      },
+      {
+        "id": "ng-and-post-campaign-scaling",
+        "text": "NG+ and Post-Campaign Scaling"
+      },
+      {
+        "id": "picking-the-right-difficulty-for-you",
+        "text": "Picking the Right Difficulty for You"
+      },
+      {
+        "id": "frequently-asked-questions",
+        "text": "Frequently Asked Questions"
+      }
+    ],
+    "difficulty:en:hard-mode-guide": [
+      {
+        "id": "hard-mode-overview-and-what-actually-changes",
+        "text": "Hard Mode Overview and What Actually Changes"
+      },
+      {
+        "id": "combat-mechanics-that-shift-on-hard-mode",
+        "text": "Combat Mechanics That Shift on Hard Mode"
+      },
+      {
+        "id": "best-builds-and-gear-preparation",
+        "text": "Best Builds and Gear Preparation"
+      },
+      {
+        "id": "strategies-for-the-hardest-encounters",
+        "text": "Strategies for the Hardest Encounters"
+      },
+      {
+        "id": "hard-mode-rewards-and-unlockables",
+        "text": "Hard Mode Rewards and Unlockables"
+      },
+      {
+        "id": "frequently-asked-questions",
+        "text": "Frequently Asked Questions"
+      }
+    ],
+    "difficulty:en:hellwalker-difficulty": [
+      {
+        "id": "what-defines-the-hellwalker-difficulty-tier",
+        "text": "What Defines the Hellwalker Difficulty Tier"
+      },
+      {
+        "id": "how-hellwalker-alters-enemy-behavior",
+        "text": "How Hellwalker Alters Enemy Behavior"
+      },
+      {
+        "id": "core-combat-adjustments-for-hellwalker",
+        "text": "Core Combat Adjustments for Hellwalker"
+      },
+      {
+        "id": "gear-weapons-and-build-requirements",
+        "text": "Gear, Weapons, and Build Requirements"
+      },
+      {
+        "id": "ng-layer-applied-to-hellwalker",
+        "text": "NG+ Layer Applied to Hellwalker"
+      },
+      {
+        "id": "endgame-survival-strategies-for-hellwalker",
+        "text": "Endgame Survival Strategies for Hellwalker"
+      },
+      {
+        "id": "frequently-asked-questions",
+        "text": "Frequently Asked Questions"
+      }
+    ],
+    "difficulty:en:new-game-plus-guide": [
+      {
+        "id": "what-carries-over-into-new-game-plus",
+        "text": "What Carries Over Into New Game Plus"
+      },
+      {
+        "id": "new-game-plus-difficulty-and-enemy-changes",
+        "text": "New Game Plus Difficulty and Enemy Changes"
+      },
+      {
+        "id": "unlocking-hidden-endgame-bosses-and-weapons",
+        "text": "Unlocking Hidden Endgame Bosses and Weapons"
+      },
+      {
+        "id": "best-builds-and-strategies-for-ng",
+        "text": "Best Builds and Strategies for NG+"
+      },
+      {
+        "id": "frequently-asked-questions",
+        "text": "Frequently Asked Questions"
+      }
+    ],
+    "difficulty:en:normal-mode-tips": [
+      {
+        "id": "understanding-normal-mode-difficulty",
+        "text": "Understanding Normal Mode Difficulty"
+      },
+      {
+        "id": "combat-fundamentals-for-normal-mode",
+        "text": "Combat Fundamentals For Normal Mode"
+      },
+      {
+        "id": "gear-and-build-strategy",
+        "text": "Gear And Build Strategy"
+      },
+      {
+        "id": "boss-and-encounter-strategy",
+        "text": "Boss And Encounter Strategy"
+      },
+      {
+        "id": "progression-and-resource-tips",
+        "text": "Progression And Resource Tips"
+      },
+      {
+        "id": "frequently-asked-questions",
+        "text": "Frequently Asked Questions"
+      }
+    ],
+    "updates:en:delay-announcement": [
+      {
+        "id": "what-happened-with-the-phantom-blade-zero-delay-announcement",
+        "text": "What Happened with the Phantom Blade Zero Delay Announcement"
+      },
+      {
+        "id": "why-phantom-blade-zero-is-being-delayed",
+        "text": "Why Phantom Blade Zero Is Being Delayed"
+      },
+      {
+        "id": "new-release-window-and-platform-details",
+        "text": "New Release Window and Platform Details"
+      },
+      {
+        "id": "what-players-should-do-while-waiting",
+        "text": "What Players Should Do While Waiting"
+      },
+      {
+        "id": "frequently-asked-questions",
+        "text": "Frequently Asked Questions"
+      }
+    ],
+    "updates:en:new-trailer-2026": [
+      {
+        "id": "trailer-breakdown-what-showed-up-on-screen",
+        "text": "Trailer Breakdown: What Showed Up on Screen"
+      },
+      {
+        "id": "combat-systems-and-ability-showcases",
+        "text": "Combat Systems and Ability Showcases"
+      },
+      {
+        "id": "story-characters-and-lore-threads",
+        "text": "Story, Characters, and Lore Threads"
+      },
+      {
+        "id": "release-outlook-and-what-it-means-for-players",
+        "text": "Release Outlook and What It Means for Players"
+      },
+      {
+        "id": "frequently-asked-questions",
+        "text": "Frequently Asked Questions"
+      }
+    ],
+    "updates:en:pre-order-guide": [
+      {
+        "id": "why-pre-ordering-phantom-blade-zero-matters-in-2026",
+        "text": "Why Pre-Ordering Phantom Blade Zero Matters in 2026"
+      },
+      {
+        "id": "phantom-blade-zero-editions-and-what-each-one-includes",
+        "text": "Phantom Blade Zero Editions and What Each One Includes"
+      },
+      {
+        "id": "pre-order-bonuses-cosmetics-and-day-one-rewards",
+        "text": "Pre-Order Bonuses, Cosmetics, and Day-One Rewards"
+      },
+      {
+        "id": "where-to-pre-order-official-stores-retailers-and-regional-options",
+        "text": "Where to Pre-Order: Official Stores, Retailers, and Regional Options"
+      },
+      {
+        "id": "step-by-step-pre-order-process-and-refund-policies",
+        "text": "Step-by-Step Pre-Order Process and Refund Policies"
+      },
+      {
+        "id": "frequently-asked-questions",
+        "text": "Frequently Asked Questions"
+      }
+    ],
+    "updates:en:release-date-october-2026": [
+      {
+        "id": "confirmed-release-window-for-october-2026",
+        "text": "Confirmed Release Window For October 2026"
+      },
+      {
+        "id": "platforms-and-editions-confirmed-for-launch",
+        "text": "Platforms And Editions Confirmed For Launch"
+      },
+      {
+        "id": "pre-order-bonuses-and-pricing-structure",
+        "text": "Pre-Order Bonuses And Pricing Structure"
+      },
+      {
+        "id": "combat-systems-and-story-content-at-launch",
+        "text": "Combat Systems And Story Content At Launch"
+      },
+      {
+        "id": "preparing-for-launch-day",
+        "text": "Preparing For Launch Day"
+      },
+      {
+        "id": "frequently-asked-questions",
+        "text": "Frequently Asked Questions"
+      }
+    ],
+    "updates:en:steam-wishlist-milestone": [
+      {
+        "id": "what-the-wishlist-milestone-actually-tracks",
+        "text": "What the Wishlist Milestone Actually Tracks"
+      },
+      {
+        "id": "how-the-community-helped-push-the-counter",
+        "text": "How the Community Helped Push the Counter"
+      },
+      {
+        "id": "what-this-means-for-the-launch-window",
+        "text": "What This Means for the Launch Window"
+      },
+      {
+        "id": "why-this-milestone-matters-beyond-marketing",
+        "text": "Why This Milestone Matters Beyond Marketing"
+      },
+      {
+        "id": "frequently-asked-questions",
+        "text": "Frequently Asked Questions"
+      }
+    ]
+  }
+}

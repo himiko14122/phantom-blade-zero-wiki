@@ -1,0 +1,142 @@
+export const metadata = {
+    id: "hard-mode-guide",
+    slug: "hard-mode-guide",
+    order: 5,
+    difficulty: "intermediate",
+    title: "Guide du Mode Difficile de Phantom Blade Zero : Conseils de Survie et Récompenses",
+    description: "Guide complet du mode difficile de Phantom Blade Zero couvrant le scaling des ennemis, le timing des parades, les builds défensifs, les stratégies de boss et les récompenses exclusives en difficulté Difficile.",
+    keywords: ["guide mode difficile Phantom Blade Zero"],
+    image: "/images/difficulty/g6fhSvDByKQ.webp",
+    video: "g6fhSvDByKQ",
+    category: "difficulty",
+    date: "2026-08-06",
+    lastModified: "2026-08-06"
+}
+
+## Aperçu du Mode Difficile et Ce Qui Change Vraiment
+
+Le mode difficile dans Phantom Blade Zero est un palier de difficulté post-campagne qui fait bien plus que simplement augmenter les statistiques des ennemis — il reconfigure entièrement le rythme de chaque combat, au point où les stratégies passives et le spam de consommables cessent de fonctionner presque immédiatement. Selon les tests de la communauté, les ennemis ordinaires infligent environ **40 à 60 % de dégâts en plus**, les fenêtres de télégraphie se réduisent d'environ deux images par coup, et les objets de soin baissent si rarement que vous ne verrez peut-être qu'une seule orbite pour cinq à six kills. Si vous finissiez les rencontres en difficulté Standard sans jamais parer, attendez-vous à devoir réapprendre la majeure partie de votre mémoire musculaire dès qu'une combo enchaînée vous coupe d'une soin.
+
+Le mode se déverrouille automatiquement dès que vous terminez l'histoire principale sur une difficulté inférieure, et il ne nécessite aucune fin spécifique, objet collectible ou cycle NG+. Votre personnage entier — niveaux, équipement, charms, nœuds de compétences débloqués — est reporté d'une seule sauvegarde terminée, c'est pourquoi l'optimisation de base du build compte bien plus que le grinding en difficulté Difficile. Étant donné que les timings de esquive et de parade interagissent si étroitement avec les nouvelles courbes d'agressivité des ennemis, les joueurs qui n'ont que survolé le tutoriel de base sur le [Ghostep](/fr/guides/ghostep-explained/) trouveront même les rencontres du début punitives jusqu'à ce qu'ils révisent leurs bases de réflexes.
+
+| Palier de Difficulté | PV des Ennemis | Dégâts des Ennemis | Taux de Drop de Soin | Régénération d'Endurance |
+|----------------------|----------------|--------------------|-----------------------|--------------------------|
+| Standard | 100 % | 100 % | 100 % | Normal (1,5 s) |
+| **Difficile** | 110 % | +45 % | -40 % | Ralenti (2,4 s) |
+| Brutal (post-jeu) | 125 % | +75 % | -60 % | Très ralenti (3,0 s) |
+
+Remarquez comment le multiplicateur de PV reste modeste à 110 %, mais la **pointe de dégâts combinée à la réduction des soins** transforme chaque rencontre en puzzle de survie plutôt qu'en course aux chiffres. Les joueurs qui ont terminé le Standard en thésaurisant des potions videront leur stock entier lors des deux premiers boss du mode Difficile, car les soins directs sont tout simplement trop inefficaces pour suivre la nouvelle courbe de dégâts.
+
+## Mécaniques de Combat qui Changent en Mode Difficile
+
+Le mode difficile n'est pas un simple amplificateur statique passif — il reconfigure activement le rythme de chaque combat, et trois mécaniques spécifiques dominent presque chaque rencontre. Maîtriser ces trois éléments est indispensable, car la plupart des échecs en mode Difficile viennent de l'une d'entre elles plutôt que des chiffres bruts de dégâts.
+
+### Agressivité des Ennemis et Fenêtres de Combo
+
+En difficulté Standard, les ennemis ordinaires marquent généralement une pause de **1 à 2 secondes** après une combo terminée, vous offrant une fenêtre propre pour punir. En mode Difficile, cette fenêtre de récupération se réduit à environ **0,5 seconde**, et les coups de suite enchaînent souvent directement vers une troisième ou quatrième attaque sans réinitialisation claire. Les boss gagnent deux séquences de combo supplémentaires en plus de leur arsenal de base, et leurs attaques à marque rouge arrivent environ 8 images plus tôt qu'en Standard, ce qui explique précisément pourquoi une **timing de parade** disciplinée cesse d'être optionnelle et devient le seul contre-fiable.
+
+### Drain d'Endurance et de Ressources
+
+Les coûts en endurance de vos armes ne changent pas en mode Difficile, mais la pénalité de régénération d'endurance frappe plus fortement que la plupart des joueurs ne s'y attendent, car les rencontres de combat s'étirent nettement plus longtemps au fur et à mesure que vous vous adaptez. Les combats contre les ennemis ordinaires durent en moyenne **15 secondes** en Standard et se prolongent fréquemment au-delà de **35 secondes** en Difficile, ce qui signifie que chaque chaîne de Deflect brûle de l'endurance que vous ne pouvez pas récupérer rapidement entre les échanges.
+
+| Ressource | Comportement en Standard | Comportement en Difficile | Impact Pratique |
+|-----------|--------------------------|---------------------------|-----------------|
+| Drop de soin | Tous les 2-3 ennemis | Tous les 5-6 ennemis | Marge de sustain réduite |
+| Orbes de Focus | Drops courants | Rares | Moins de bursts de Sha-Chi |
+| Or | Valeur de base | Divisé par deux | Améliorations d'équipement plus lentes |
+| Régén. d'endurance | 1,5 s entre les bursts | 2,4 s entre les bursts | Plafond de combo ~4 coups |
+
+Planifiez autour de **chaînes de combo de 3-4 coups** plutôt que les juggles de 6-8 coups que vous pouviez spammer en Standard, car les mathématiques d'endurance ne supportent tout simplement pas une pression prolongée. Habituez-vous à un rythme de désengagement et de repositionnement, et traitez chaque Deflect comme une ressource que vous dépensez plutôt que comme une action gratuite.
+
+### Pénalité de l'État Blessé (Breached)
+
+L'état Blessé (Breached), qui se déclenche lorsque votre barre de PV se vide et que l'écran se désature, se comporte de manière beaucoup plus brutale en mode Difficile, car les ennemis infligent des dégâts amplifiés pendant votre animation de récupération et le chronomètre à l'écran défile plus vite qu'en Standard. De nombreux joueurs qui découvrent le mode Difficile perdent leur run non pas parce qu'ils sont tombés, mais parce qu'ils ont tenté de se relever alors qu'un boss était encore en transition de phase. Le blindage défensif que vous intégrez dans votre build doit toujours inclure au moins une option de panique pour dégager la zone immédiate avant de vous engager dans une récupération, car un second souffle échoué fait réapparaître toute la sous-zone avec les ennemis à PV pleins.
+
+Si vous souhaitez une analyse étape par étape de l'ordre de récupération, le reste de ce guide s'appuie sur les bases posées dans le tutoriel [comment parer](/fr/guides/how-to-parry/), qui couvre les fenêtres de timing dont dépend l'état Blessé.
+
+## Meilleurs Builds et Préparation d'Équipement
+
+Entrer en mode Difficile avec un build réglé pour le Standard est la cause la plus fréquente d'échecs précoces, car l'équipement avec lequel vous avez traversé la campagne s'avère soudainement incapable de couvrir la nouvelle économie d'endurance et de soins. Vous devez activement reconstruire votre personnage autour d'armes défensivement solides, de charms qui récompensent le jeu propre et de consommables qui se déclenchent passivement plutôt que sur utilisation directe.
+
+### Armes Recommandées pour le Mode Difficile
+
+Les armes à dégâts de posture élevés et à fenêtres de récupération courtes dominent le mode Difficile, car elles vous permettent de terminer les combats avant que la jauge d'endurance ne soit vide. Les armes lourdes lentes perdent disproportionnellement de leur valeur, car les rencontres prolongées amplifient les problèmes d'endurance et donnent aux ennemis davantage de chances d'interrompre vos coups plus lents.
+
+| Arme | Type | Points Forts en Difficile | Style de Jeu Adapté |
+|------|------|---------------------------|---------------------|
+| **Qinghe Edge** | Épée Courte | +18 % posture, récupération rapide | Joueur agressif axé parade |
+| **Ironroot Spear** | Lance Moyenne | Longue portée, endurance moyenne | Défenseur à distance moyenne |
+| **Twin Cinder Blades** | Double Arme | DPS le plus élevé, coût d'endurance élevé | Build vernis en verre risqué |
+| **Demon-Breath Mace** | Masse Lourde | Coup unique le plus puissant, lent | Builds contreurs patients |
+| **Whispering Whip** | Souple | Portée + accumulation de statut | Jeu axé sur le contrôle |
+
+Le **Qinghe Edge** est largement recommandé pour les premières tentatives en mode Difficile car son bonus de +18 % à la posture convertit les fenêtres de Deflect en pression de rupture, ce qui raccourcit les combats de boss d'un ou deux cycles complets. Les joueurs qui préfèrent un jeu plus lent et basé sur le spacing peuvent utiliser la **Ironroot Spear** avec le même succès, car sa portée leur permet de contrôler la distance tout en exerçant une pression sur les jauges de rupture.
+
+### Armure, Charms et Charge de Consommables
+
+Les valeurs d'armure en mode Difficile ne réduisent pas les dégâts bruts aussi drastiquement qu'elles améliorent la survie grâce à des effets secondaires comme les fenêtres de parade, les images-frames d'esquive ou les fenêtres de contre après un Deflect. Les emplacements de charms deviennent le véritable facteur de différenciation, car ils peuvent s'empiler avec les nœuds de compétences passifs pour créer un bouclier d'urgence dès que vos PV descendent en dessous de 30 %. Constituez votre set de charms autour de déclencheurs conditionnels — « +X % de dégâts pendant 4 s après un Parfait Deflect » — plutôt que des bonus forfaitaires, car les statistiques fixes ne montent pas assez vite pour suivre la courbe de dégâts du mode Difficile.
+
+Pour les consommables, limitez votre charge aux **objets de soin rapide qui se déclenchent sur parade ou esquive** plutôt que les soins directs, car votre économie de soin est déjà affamée. Une ventilation plus détaillée des consommables se trouve dans le [guide de combat](/fr/guides/combat-guide/), mais la règle générale est de retirer chaque tonic offensif au profit des défensifs et de ne jamais commencer une run avec moins de trois déclencheurs de soin passifs équipés.
+
+## Stratégies pour les Rencontres les Plus Difficiles
+
+Le mode Difficile inclut tous les boss de l'histoire principale plus trois boss post-jeu qui n'apparaissent que sur cette difficulté, et chacun possède au moins un mécanisme qui peut complètement réinitialiser une run mal préparée. Connaître le rythme et les contre-mesures de chaque rencontre fait la différence entre un clear propre et une boucle de respawn frustrante.
+
+### Rythme des Mini-Bosses
+
+Les mini-bosses en mode Difficile se comportent moins comme des tests de sprint et davantage comme des épreuves d'endurance, et ils ouvrent avec une feinte de combo différée qui punit sévèrement les parades préemptives. Le mouvement d'ouverture sûr consiste à attendre le flash orange avant de s'engager, puis enchaîner un punition de 2-3 coups et se réinitialiser immédiatement à distance moyenne. La plupart des mini-bosses invoquent des renforts en phase 2, donc priorisez les renforts d'abord puis le boss ensuite, car les renforts bénéficient du même multiplicateur de dégâts de +45 % et vous détruiront si vous les ignorez.
+
+Les joueurs qui ont affiné leur timing en Standard auront besoin de se recalibrer, car la fenêtre de feinte est d'environ **0,2 seconde plus courte** en mode Difficile. Selon les rapports des joueurs sur les forums communautaires, jouer avec le son activé aide réellement, car l'indice sonore arrive environ 2 images avant le flash visuel, vous offrant un petit avertissement significatif que vous ne pouvez pas obtenir de l'animation seule.
+
+### Tableau de Stratégie des Boss Principaux
+
+| Boss | Configuration Phase 1 | Déclencheur Phase 2 | Contre-Recommandé |
+|------|------------------------|---------------------|-------------------|
+| **Crimson Warden** | Parry → punition de 3 coups | En dessous de 50 % PV | Étourdir avec Qinghe |
+| **Sisters of the Mourning Garden** | Séparer les renforts d'abord | Les deux vivants à bas PV | Cibler la sœur la plus faible |
+| **Iron-Eye General** | Esquiver son tir à l'arc | Rupture de stance | Fenêtre de burst Sha-Chi |
+| **Phoenix Ascendant** | Apprendre les indices aériens | À 30 % PV | Timing de Deflect vertical |
+| **Salt-Crowned Scholar** | Punir les animations de lancement | À 40 % PV | Charge rapide avec posture |
+
+Le **Iron-Eye General** est largement considéré comme le mur du mode Difficile pour de nombreux joueurs, car sa stance d'arc à l'arc punit l'esquive passive tandis que sa suite de mêlée enchaîne directement dans une prise impossible à bloquer. Combiner un espacement d'esquive discipliné avec une seule parade précise pour provoquer la prise est requis ; associer cela à la fenêtre de burst de votre compétence **Sha-Chi** — détaillée dans le [guide Sha-Chi burst](/fr/guides/sha-chi-guide/) — est la méthode que les joueurs utilisent pour boucler le combat en deux cycles.
+
+## Récompenses et Déverrouillages du Mode Difficile
+
+La structure de récompenses du mode Difficile est l'un de ses plus grands attraits, car au-delà du prestige du clear en lui-même, vous débloquez des cosmétiques, une stance d'arme unique et l'accès à un troisième palier appelé Brutal qui utilise les sauvegardes Difficile comme base. Si vous vous êtes toujours demandé si la courbe de difficulté valait la peine d'être poussée, la réponse est presque toujours oui, car plusieurs de ces déverrouillages n'existent nulle part ailleurs dans le jeu.
+
+| Type de Récompense | Élément / Déverrouillage | Comment l'obtenir | Notes |
+|--------------------|--------------------------|-------------------|-------|
+| Stance d'Arme | **Phoenix Iron Stance** | Terminer la campagne principale en Difficile | Requis pour le palier Brutal |
+| Cosmétique | **Peau Obsidienne de Yi** | Vaincre tous les mini-bosses sans mourir | Défi à vie unique |
+| Bonus de Monnaie | Transfert d'or x2 en mode Difficile | Prestige vers Brutal | Reporté en NG+ |
+| Emplacement de Charm | +1 emplacement permanent | Vaincre Phoenix Ascendant | S'empile avec les emplacements de base |
+| Trophée | Succès « Invaincu » | Clear avec 0 mort en état Blessé | Test de pur skill |
+| Tenue | Masque du Salt-Crowned Scholar | Vaincre le boss post-jeu | Cosmétique uniquement |
+
+Le **Phoenix Iron Stance** est la récompense phare pour la plupart des joueurs car il déverrouille la boucle post-jeu Brutal et modifie la façon dont plusieurs combos d'armes artistiques fonctionnent. Le succès **Invaincu** (Unbroken) est également très recherché, car la restriction de zéro mort en état Blessé force essentiellement une run sans faille et est largement cité dans la communauté Steam comme la référence absolue de compétence. Les deux sont signalés par la [fiche Steam officielle de Phantom Blade Zero](https://store.steampowered.com/app/4115450/Phantom_Blade_Zero/) comme des jalons communautaires pour les vétérans, et le développeur publie des ajustements d'équilibre qui peuvent affecter le mode Difficile dans les notes de mise à jour hébergées sur le [site officiel de Phantom Blade Zero](https://pbz.s-game.com/).
+
+Avant de lancer une run en mode Difficile, il est utile de parcourir les notes de mise à jour pour vérifier les éventuels ajustements récents de la régénération d'endurance ou des fenêtres de parade, car de petits changements numériques dans ces courbes affectent disproportionnellement l'économie du mode Difficile.
+
+## Questions Fréquemment Posées
+
+**Le mode Difficile est-il disponible dès le début de Phantom Blade Zero ?**
+
+Non. Le mode Difficile se déverrouille après avoir terminé la campagne principale au moins une fois en difficulté Standard ou inférieure. Il ne nécessite aucune fin spécifique ni objet collectible, et vous pouvez le lancer directement depuis l'écran titre via le menu de sélection de difficulté.
+
+**Le mode Difficile reporte-t-il l'équipement et les niveaux ?**
+
+Oui, votre niveau de personnage, votre équipement équipé, vos charms et vos nœuds de compétences débloqués sont tous reportés d'une seule partie terminée. Vous pouvez entrer en Difficile immédiatement avec un personnage entièrement construit, c'est précisément pourquoi l'optimisation du build compte plus que le simple grinding à ce palier.
+
+**Quelle est la différence entre Difficile et Brutal ?**
+
+Brutal est un palier post-jeu qui empile un multiplicateur supplémentaire par-dessus le Difficile : +75 % de dégâts ennemis, régénération d'endurance plus lente, et accès à des cosmétiques exclusifs liés à son classement. Vous devez d'abord terminer le Difficile, puis choisir Prestige depuis l'écran titre pour y accéder.
+
+**Quel est l'arbre de compétences le plus important à investir pour le mode Difficile ?**
+
+Deflect Mastery est universellement classé en premier grâce à la manière dont les ennemis enchaînent agressivement. Priorisez les nœuds Deflect Mastery dans vos 10 premiers points de compétence, puis concentrez-vous sur les passifs de régénération d'endurance avant de toucher à toute branche offensive.
+
+**Où puis-je trouver les dernières notes d'équilibre du mode Difficile ?**
+
+Les détails des mises à jour sont publiés sur le [site officiel de Phantom Blade Zero](https://pbz.s-game.com/) et sur le [hub d'actualités Steam](https://store.steampowered.com/app/4115450/Phantom_Blade_Zero/) pour le jeu. Lire la dernière correction avant une run en Difficile est fortement recommandé, car même de légers ajustements d'endurance ou de fenêtre de parade peuvent modifier drastiquement l'économie.
+
+Quelle récompense du mode Difficile prévoyez-vous de chasser
