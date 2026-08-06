@@ -7,7 +7,7 @@
     "prebuild": "echo 'Skipping prebuild check on CI'",
     "dev": "next dev",
     "build": "node scripts/generate-content-manifest.mjs && node scripts/generate-sitemap.mjs && next build",
-    "cf-build": "corepack enable && pnpm install --frozen-lockfile && NODE_ENV=production pnpm run build",
+    "cf-build": "corepack enable && pnpm install --frozen-lockfile && NODE_ENV=production pnpm run build && rm -rf .next/cache",
     "preview": "npx wrangler pages dev out"
   },
   "dependencies": {
