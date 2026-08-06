@@ -1,6 +1,8 @@
 {
   "version": 1,
-  "include": ["/*"],
+  "include": [
+    "/*"
+  ],
   "exclude": [
     "/_next/*",
     "/ads/*",
@@ -19,7 +21,6 @@
     "/*.woff2",
     "/*.woff",
     "/*.ttf",
-    "/*.map",
-    "/api/*"
+    "/*.map"
   ]
 }
