@@ -6,7 +6,7 @@ const require = createRequire(import.meta.url);
 const { slug: githubSlug } = require('github-slugger');
 
 const SLUG_PREFIX = 'Phantom-Blade-Zero-';
-const LOCALES = ['en'];
+const LOCALES = ['en', 'de', 'fr', 'ja'];
 const CONTENT_TYPES = ['guides', 'weapons', 'phantom-edges', 'boss-guide', 'endings', 'combat', 'tier-list', 'lore', 'difficulty', 'updates'];
 const CONTENT_ROOT = path.join(process.cwd(), 'content');
 

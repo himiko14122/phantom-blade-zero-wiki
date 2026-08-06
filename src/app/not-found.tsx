@@ -5,7 +5,7 @@ import { useEffect } from 'react';
 export default function NotFound() {
   useEffect(() => {
     const p = window.location.pathname;
-    const locales = ['en', 'ko', 'ja', 'de', 'fr'];
+    const locales = ['en', 'de', 'fr', 'ja'];
     const hasLocale = locales.some(
       (l) => p === `/${l}/` || p === `/${l}` || p.startsWith(`/${l}/`)
     );

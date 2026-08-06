@@ -63,8 +63,8 @@ for (const [articlePath, videoId] of Object.entries(ARTICLE_VIDEOS)) {
 }
 
 const contentDir = path.join(__dirname, '..', 'content');
-const locales = ['en', 'de', 'uk', 'ja'];
-const categories = ['guides', 'tramplers', 'weapons', 'upiors', 'tier-list', 'game-modes', 'codes'];
+const locales = ['en', 'de', 'fr', 'ja'];
+const categories = ['guides', 'weapons', 'phantom-edges', 'boss-guide', 'endings', 'combat', 'tier-list', 'lore', 'difficulty', 'updates'];
 let updated = 0;
 let skipped = 0;
 
